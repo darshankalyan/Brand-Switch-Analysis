@@ -1,0 +1,17 @@
+pandas
+numpy
+requests
+tqdm
+networkx
+scipy
+scikit-learn
+
+# steps 3 and 5 (run on a GPU runtime such as Colab or Kaggle)
+torch
+transformers[sentencepiece]
+accelerate
+protobuf
+bertopic
+sentence-transformers
+umap-learn
+hdbscan

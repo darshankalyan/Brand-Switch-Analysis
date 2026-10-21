@@ -1,0 +1,31 @@
+source,target,value
+From: HDFC,To: HSBC,23
+From: HDFC,To: Axis,19
+From: ICICI,To: HDFC,13
+From: Axis,To: HSBC,10
+From: HDFC,To: ICICI,9
+From: Axis,To: HDFC,9
+From: ICICI,To: HSBC,8
+From: Citi,To: Axis,6
+From: SBI,To: Axis,5
+From: Axis,To: SBI,5
+From: Amex,To: Axis,4
+From: SBI,To: HDFC,4
+From: HSBC,To: HDFC,4
+From: Kotak,To: HDFC,3
+From: ICICI,To: SBI,3
+From: Amex,To: HDFC,3
+From: Amex,To: ICICI,3
+From: Amex,To: HSBC,3
+From: SBI,To: HSBC,3
+From: ICICI,To: IndusInd,2
+From: IDFC First,To: HDFC,2
+From: IDFC First,To: ICICI,2
+From: HSBC,To: Axis,2
+From: HDFC,To: Federal,2
+From: Axis,To: ICICI,2
+From: Axis,To: Amex,2
+From: IDFC First,To: SBI,2
+From: HDFC,To: Yes Bank,2
+From: HDFC,To: SBI,2
+From: HDFC,To: IndusInd,2

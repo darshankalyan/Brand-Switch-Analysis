@@ -1,0 +1,61 @@
+id,origin,destination,rule,bucket,is_real_switch,direction_correct,reason
+pds3tmu,HDFC,IDFC First,instead,other,n,,advice to someone else on which card to pick
+1rgugz5,IndusInd,Axis,drop_for,other,?,,"evidence sentence is in the cut-off part of the text, cannot judge"
+1puk41x,HDFC,Axis,from_to,other,?,,"evidence sentence is in the cut-off part of the text, cannot judge"
+p089zws,Axis,Amex,from_to,other,n,,converted Axis Myzone to Privilege: a change inside Axis; Amex is only the network or offer
+peg0mbe,HDFC,HSBC,from_to,other,y,y,"moving from HDFC to HSBC, applied for HSBC Premier"
+pbbztoy,HDFC,HSBC,arrow,other,y,y,people going to HSBC; Swiggy HDFC upgrade -> HSBC Live+ (third-person)
+1u0up2n,HDFC,ICICI,drop_for,other,?,,"evidence sentence is in the cut-off part of the text, cannot judge"
+1txjiz5,Axis,BoB,move_x_to,other,?,,"evidence sentence is in the cut-off part of the text, cannot judge"
+1pkm9cs,Axis,Amex,move_x_to,other,n,,"advice; Axis offered an upgrade to Privilege, which is an Axis card"
+1nbyn7i,IndusInd,Kotak,from_to,other,n,,"DD from IndusInd to close a Kotak loan, not a card switch"
+p8slxid,HDFC,HSBC,from_to,comparison,y,y,shifted from HDFC Infinia to HSBC
+1l4xi0w,IDFC First,HDFC,from_to,comparison,?,,"evidence sentence is in the cut-off part of the text, cannot judge"
+p0q0gcg,HDFC,HSBC,to_from,confirmed >=0.5,y,y,moved salary account from HDFC to HSBC after 15 years
+1wn2zzj,Axis,HSBC,from_to,other,y,y,moved salary account from Axis Burgundy to HSBC Premier
+1ow8c5b,HDFC,HSBC,drop_for,confirmed >=0.5,y,y,closed HDFC salary account and moved it to HSBC (same text as row 18)
+1ri13ik,HDFC,Axis,drop_for,intent,n,,"deciding whether to replace Millennia with Atlas, a plan"
+p08thq1,HDFC,Axis,from_to,other,y,y,moved from HDFC to Axis for the movie offer
+1j3zi8e,SBI,HDFC,drop_for,other,?,,"evidence sentence is in the cut-off part of the text, cannot judge"
+1ow8bpl,HDFC,HSBC,drop_for,confirmed >=0.5,y,y,"duplicate of row 14: same text, different id"
+1uw7ahq,Axis,HSBC,pair_cues,other,y,y,"opted for HSBC after Axis Atlas devaluation, will close Atlas"
+1pe4k62,ICICI,IndusInd,instead,other,n,,paid IndusInd card by mistake instead of ICICI card
+1w2h1c1,Axis,HDFC,move_x_to,other,n,,"converted NR cards to resident, not a bank switch"
+1rwvg5x,HDFC,BoB,arrow,other,?,,"evidence sentence is in the cut-off part of the text, cannot judge"
+ovxgnde,HDFC,HSBC,from_to,comparison,n,,"hypothetical: if HSBC gave 4x, people would migrate"
+1mksfmr,Amex,HDFC,to_from,other,n,,points redemption question
+1wqja1p,SBI,HSBC,drop_for,intent,n,,"asking about replacing SBI PhonePe Black with HSBC Live+, a plan"
+1rcek31,HDFC,HSBC,from_to,other,y,y,"moving salary account from HDFC to HSBC, underway"
+1o2butv,ICICI,IDFC First,move_x_to,other,n,,"bank offered an upgrade inside ICICI, waiting on an IDFC offer"
+p6tbm3o,HDFC,SBI,instead,other,n,,advice: take SBI instead of HDFC
+1u0uie5,HDFC,ICICI,drop_for,other,?,,"evidence sentence is in the cut-off part of the text, cannot judge"
+p6g560i,HDFC,HSBC,instead,other,n,,chose HSBC Premier and HDFC DCB over Infinia: still took an HDFC card
+1i7xqjf,Axis,Yes Bank,from_to,other,n,,"title is about upgrading, says currently holds Kiwi Axis, not done"
+1vypodl,HDFC,Axis,from_to,confirmed >=0.5,y,y,shifted salary account from HDFC to Axis
+1qkx5b8,HDFC,HSBC,from_to,confirmed <0.5,y,y,switched salary account from HDFC to HSBC Premier
+p84xza7,ICICI,Federal,to_from,other,n,,advice to someone else
+ozthai7,IDFC First,SBI,instead,other,n,,question comparing two cards
+1l27r3u,Axis,ICICI,to_from,confirmed >=0.5,y,y,moved salary account from Axis to ICICI after bad service
+p0o74u4,HDFC,Axis,move_x_to,other,y,y,switched from HDFC Imperia to Axis
+1nscjr5,ICICI,SBI,drop_for,other,?,,"evidence sentence is in the cut-off part of the text, cannot judge"
+1vuerl4,HDFC,HSBC,from_to,other,n,,future plan: will be moving salary account
+1lzt923,HDFC,Axis,from_to,other,?,,"evidence sentence is in the cut-off part of the text, cannot judge"
+pax94fz,HSBC,HDFC,to_from,other,y,n,left HDFC for HSBC; pipeline reversed it to HSBC -> HDFC
+p7c5l21,HDFC,HSBC,drop_for,other,n,,advice to someone else
+1v6tt02,SBI,Kotak,drop_for,other,y,n,"left SBI for Slice, then Axis; wanted Kotak but went back; pipeline said SBI -> Kotak"
+1ou2ib3,SBI,Axis,to_from,other,y,y,"changing salary account from SBI to Axis, underway"
+1oxta6w,Amex,Axis,drop_for,other,?,,"evidence sentence is in the cut-off part of the text, cannot judge"
+1w9ppqw,HDFC,ICICI,from_to,other,?,,"evidence sentence is in the cut-off part of the text, cannot judge"
+1pepef1,HDFC,Axis,move_x_to,other,n,,thinking of switching to Axis Privilege; the move already made was to an HDFC card
+1odwhqr,ICICI,HDFC,from_to,other,y,y,father moving salary account from ICICI to HDFC (third party)
+1q2kqnu,ICICI,HDFC,from_to,comparison,?,,"evidence sentence is in the cut-off part of the text, cannot judge"
+p3vc7zn,Amex,HDFC,from_to,other,y,y,switched from Amex Platinum to Regalia Gold last year
+1s4wsme,Axis,HDFC,to_from,other,y,y,switched account from Axis to HDFC because of employer
+1ogmgtm,Axis,HDFC,from_to,other,n,,negotiation: offered to move home loan if bank gives Infinia
+p06l4c4,HDFC,HSBC,from_to,confirmed >=0.5,y,y,switched from HDFC Infinia to HSBC Premier
+1ts6ac4,SBI,HDFC,from_to,other,n,,"wanted or thought to switch to an HDFC core card, SBI only context"
+1rlkfjb,ICICI,HSBC,drop_for,comparison,?,,"evidence sentence is in the cut-off part of the text, cannot judge"
+1sovzmj,HDFC,Axis,from_to,other,y,y,shifted from HDFC to Axis for the Burgundy salary account
+1mo2bxi,HDFC,HSBC,from_to,comparison,n,,"company is offering, still wondering"
+p6qs9at,Axis,HSBC,from_to,other,n,,advice to someone else
+p1hcv4c,HDFC,Axis,instead,other,n,,question about getting a card

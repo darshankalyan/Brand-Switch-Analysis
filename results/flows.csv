@@ -1,0 +1,792 @@
+id,type,date,origin,destination,rule,intra_issuer,bucket,zs_score,source,target
+1mhnqg9,post,2025-08-04 19:49:26,ICICI,ICICI,arrow,True,other,0.6,From: ICICI,To: ICICI
+1mhnqg9,post,2025-08-04 19:49:26,HDFC,HDFC,arrow,True,other,0.6,From: HDFC,To: HDFC
+1mhnk5e,post,2025-08-04 19:42:59,ICICI,ICICI,arrow,True,other,0.553,From: ICICI,To: ICICI
+1mhnk5e,post,2025-08-04 19:42:59,HDFC,HDFC,arrow,True,other,0.553,From: HDFC,To: HDFC
+1wh3u6c,post,2026-09-15 15:39:08,SBI,Amex,arrow,False,other,0.857,From: SBI,To: Amex
+1w2q9tz,post,2026-08-30 19:05:36,HDFC,HSBC,from_to,False,other,0.558,From: HDFC,To: HSBC
+1v5ygyh,post,2026-07-25 04:46:47,ICICI,ICICI,arrow,True,other,0.972,From: ICICI,To: ICICI
+1qvn2g1,post,2026-02-04 12:19:27,HDFC,HDFC,arrow,True,other,0.542,From: HDFC,To: HDFC
+1qvllm9,post,2026-02-04 11:00:34,HDFC,HDFC,arrow,True,other,0.749,From: HDFC,To: HDFC
+1q4mrah,post,2026-01-05 14:14:44,Axis,Axis,drop_for,True,comparison,0.502,From: Axis,To: Axis
+1q2kqnu,post,2026-01-03 04:16:22,ICICI,HDFC,from_to,False,comparison,0.398,From: ICICI,To: HDFC
+1okvhqc,post,2025-10-31 14:04:20,IDFC First,SBI,arrow,False,other,0.74,From: IDFC First,To: SBI
+1wmd5q6,post,2026-09-21 13:41:45,IDFC First,HDFC,from_to,False,confirmed <0.5,0.494,From: IDFC First,To: HDFC
+p4hntvn,comment,2026-08-18 20:34:30,IDFC First,IDFC First,from_to,True,other,0.659,From: IDFC First,To: IDFC First
+1ud7lvk,post,2026-06-23 04:55:36,HDFC,HDFC,move_x_to,True,other,0.888,From: HDFC,To: HDFC
+1tir1pq,post,2026-05-20 16:34:42,Axis,Axis,instead,True,other,0.368,From: Axis,To: Axis
+1slb40k,post,2026-04-14 14:57:15,ICICI,HDFC,from_to,False,other,0.738,From: ICICI,To: HDFC
+1s5zr99,post,2026-03-28 13:02:16,ICICI,ICICI,arrow,True,other,0.996,From: ICICI,To: ICICI
+1s4e2cu,post,2026-03-26 17:31:14,ICICI,SBI,arrow,False,comparison,0.45,From: ICICI,To: SBI
+1s4e2cu,post,2026-03-26 17:31:14,HDFC,HDFC,arrow,True,comparison,0.45,From: HDFC,To: HDFC
+1rwvg5x,post,2026-03-18 05:41:59,HSBC,BoB,arrow,False,other,0.92,From: HSBC,To: BoB
+1rwvg5x,post,2026-03-18 05:41:59,HDFC,IndusInd,arrow,False,other,0.92,From: HDFC,To: IndusInd
+1rwvg5x,post,2026-03-18 05:41:59,HDFC,BoB,arrow,False,other,0.92,From: HDFC,To: BoB
+1qa5r87,post,2026-01-11 17:46:31,HDFC,HDFC,from_to,True,other,0.941,From: HDFC,To: HDFC
+1pxoxb1,post,2025-12-28 11:11:07,HDFC,ICICI,from_to,False,other,0.964,From: HDFC,To: ICICI
+1osod8g,post,2025-11-09 16:56:18,Axis,Axis,move_x_to,True,other,0.483,From: Axis,To: Axis
+1nsd4g5,post,2025-09-28 02:35:03,ICICI,SBI,drop_for,False,other,0.915,From: ICICI,To: SBI
+1nsd4g5,post,2025-09-28 02:35:03,SBI,SBI,drop_for,True,other,0.915,From: SBI,To: SBI
+1nscjr5,post,2025-09-28 02:04:29,ICICI,SBI,drop_for,False,other,0.915,From: ICICI,To: SBI
+1nscjr5,post,2025-09-28 02:04:29,SBI,SBI,drop_for,True,other,0.915,From: SBI,To: SBI
+1n6rsef,post,2025-09-02 18:41:30,Kotak,Kotak,arrow,True,other,0.803,From: Kotak,To: Kotak
+1n3aaua,post,2025-08-29 15:20:25,SBI,Axis,to_from,False,other,0.585,From: SBI,To: Axis
+1n32u9m,post,2025-08-29 09:34:35,HDFC,HDFC,arrow,True,comparison,0.337,From: HDFC,To: HDFC
+1n32u9m,post,2025-08-29 09:34:35,Axis,Axis,arrow,True,comparison,0.337,From: Axis,To: Axis
+1hw9hr3,post,2025-01-08 02:46:30,Amex,Amex,from_to,True,other,0.908,From: Amex,To: Amex
+1wvjtim,post,2026-10-02 03:48:50,SBI,HSBC,drop_for,False,other,0.825,From: SBI,To: HSBC
+1ri13ik,post,2026-03-01 16:08:33,HDFC,Axis,drop_for,False,intent,0.519,From: HDFC,To: Axis
+1rgugz5,post,2026-02-28 05:41:56,IndusInd,Axis,drop_for,False,other,0.968,From: IndusInd,To: Axis
+1qf3id8,post,2026-01-17 04:27:52,HDFC,HDFC,arrow,True,comparison,0.339,From: HDFC,To: HDFC
+1nhtux2,post,2025-09-15 18:27:08,HDFC,HDFC,move_x_to,True,other,0.965,From: HDFC,To: HDFC
+1mjbxaq,post,2025-08-06 18:04:06,Amex,Axis,drop_for,False,other,0.807,From: Amex,To: Axis
+1l3f24h,post,2025-06-04 19:44:17,SBI,SBI,arrow,True,other,0.916,From: SBI,To: SBI
+1wqja1p,post,2026-09-26 06:26:31,SBI,HSBC,drop_for,False,intent,0.443,From: SBI,To: HSBC
+pbbztoy,comment,2026-09-22 09:26:31,HDFC,HSBC,arrow,False,other,0.733,From: HDFC,To: HSBC
+pbbztoy,comment,2026-09-22 09:26:31,Amex,HSBC,arrow,False,other,0.733,From: Amex,To: HSBC
+pbbztoy,comment,2026-09-22 09:26:31,Axis,HSBC,arrow,False,other,0.733,From: Axis,To: HSBC
+pbbztoy,comment,2026-09-22 09:26:31,SBI,HSBC,arrow,False,other,0.733,From: SBI,To: HSBC
+1wimt2h,post,2026-09-17 07:08:25,HSBC,Axis,move_x_to,False,other,0.555,From: HSBC,To: Axis
+1w8ux2d,post,2026-09-06 12:29:54,HDFC,HDFC,move_x_to,True,other,0.878,From: HDFC,To: HDFC
+1txjiz5,post,2026-06-05 12:27:57,Axis,BoB,move_x_to,False,other,0.962,From: Axis,To: BoB
+1tjbhze,post,2026-05-21 06:03:16,Axis,Axis,move_x_to,True,other,0.731,From: Axis,To: Axis
+1sqi12r,post,2026-04-20 07:10:45,HDFC,HDFC,move_x_to,True,other,0.915,From: HDFC,To: HDFC
+1sqi12r,post,2026-04-20 07:10:45,IDFC First,ICICI,from_to,False,other,0.915,From: IDFC First,To: ICICI
+1sqi12r,post,2026-04-20 07:10:45,ICICI,ICICI,drop_for,True,other,0.915,From: ICICI,To: ICICI
+1sovzmj,post,2026-04-18 12:12:32,HDFC,Axis,from_to,False,other,0.483,From: HDFC,To: Axis
+1rncpul,post,2026-03-07 15:27:38,HDFC,HDFC,move_x_to,True,other,0.807,From: HDFC,To: HDFC
+1rcb9qc,post,2026-02-23 07:43:19,Amex,Amex,move_x_to,True,other,0.956,From: Amex,To: Amex
+1qr257g,post,2026-01-30 10:45:06,Federal,Axis,move_x_to,False,other,0.915,From: Federal,To: Axis
+1qls3gx,post,2026-01-24 16:54:04,HDFC,HDFC,move_x_to,True,other,0.845,From: HDFC,To: HDFC
+1qawi10,post,2026-01-12 14:35:51,HDFC,Axis,to_from,False,other,0.594,From: HDFC,To: Axis
+1q97vjo,post,2026-01-10 16:06:46,SBI,SBI,move_x_to,True,other,0.559,From: SBI,To: SBI
+1q8xwm1,post,2026-01-10 07:29:35,Axis,Axis,move_x_to,True,comparison,0.474,From: Axis,To: Axis
+1q6iypz,post,2026-01-07 15:51:34,HDFC,HDFC,arrow,True,other,0.335,From: HDFC,To: HDFC
+1pxj5zm,post,2025-12-28 05:20:47,HDFC,HDFC,arrow,True,comparison,0.538,From: HDFC,To: HDFC
+1pvg22y,post,2025-12-25 15:48:50,HDFC,HDFC,arrow,True,comparison,0.546,From: HDFC,To: HDFC
+1nx7rzl,post,2025-10-03 18:53:21,HDFC,HDFC,move_x_to,True,other,0.848,From: HDFC,To: HDFC
+1nk2g3e,post,2025-09-18 08:08:49,HDFC,HDFC,move_x_to,True,other,0.962,From: HDFC,To: HDFC
+1nddk8m,post,2025-09-10 13:00:58,HDFC,HDFC,arrow,True,comparison,0.467,From: HDFC,To: HDFC
+1nddbtl,post,2025-09-10 12:50:51,HDFC,HDFC,arrow,True,comparison,0.478,From: HDFC,To: HDFC
+1mxmvy3,post,2025-08-23 00:12:50,Axis,Axis,move_x_to,True,other,0.861,From: Axis,To: Axis
+1l28f2p,post,2025-06-03 10:28:59,HDFC,HDFC,arrow,True,other,0.385,From: HDFC,To: HDFC
+1kau7wj,post,2025-04-29 17:49:27,ICICI,ICICI,move_x_to,True,other,0.988,From: ICICI,To: ICICI
+1j3gihh,post,2025-03-04 17:40:01,HDFC,HDFC,move_x_to,True,intent,0.359,From: HDFC,To: HDFC
+1j2g4mx,post,2025-03-03 10:56:59,HDFC,HDFC,move_x_to,True,other,0.916,From: HDFC,To: HDFC
+1hqxt9z,post,2025-01-01 07:03:29,Amex,Amex,move_x_to,True,other,0.838,From: Amex,To: Amex
+pejorld,comment,2026-10-08 00:57:12,ICICI,ICICI,move_x_to,True,other,0.38,From: ICICI,To: ICICI
+palkl5e,comment,2026-09-18 16:19:09,HDFC,HDFC,move_x_to,True,other,0.535,From: HDFC,To: HDFC
+1wgaq7b,post,2026-09-14 17:54:42,Axis,Axis,move_x_to,True,other,0.755,From: Axis,To: Axis
+1wbfv8l,post,2026-09-09 08:40:11,SBI,SBI,arrow,True,other,0.857,From: SBI,To: SBI
+1wbfv8l,post,2026-09-09 08:40:11,Axis,Axis,arrow,True,other,0.857,From: Axis,To: Axis
+p84xza7,comment,2026-09-06 10:31:05,ICICI,Federal,to_from,False,other,0.972,From: ICICI,To: Federal
+p7fzvcv,comment,2026-09-02 20:05:55,HDFC,HDFC,move_x_to,True,comparison,0.427,From: HDFC,To: HDFC
+1w2h1c1,post,2026-08-30 13:03:54,Axis,HDFC,move_x_to,False,other,0.383,From: Axis,To: HDFC
+1vnghk5,post,2026-08-13 16:59:27,HDFC,HDFC,arrow,True,other,0.527,From: HDFC,To: HDFC
+p2lvaiw,comment,2026-08-09 07:46:03,HDFC,HDFC,move_x_to,True,other,0.963,From: HDFC,To: HDFC
+p193bg1,comment,2026-08-02 13:35:17,HDFC,HDFC,drop_for,True,other,0.721,From: HDFC,To: HDFC
+p0o74u4,comment,2026-07-30 13:56:26,HDFC,Axis,move_x_to,False,other,0.336,From: HDFC,To: Axis
+1uzms08,post,2026-07-18 05:11:27,HDFC,HDFC,from_to,True,other,0.959,From: HDFC,To: HDFC
+owp6j7p,comment,2026-07-10 13:52:26,HDFC,HSBC,from_to,False,confirmed >=0.5,0.533,From: HDFC,To: HSBC
+ow7laar,comment,2026-07-08 02:11:59,IndusInd,HSBC,drop_for,False,other,0.513,From: IndusInd,To: HSBC
+1ubt4f1,post,2026-06-21 15:37:25,Yes Bank,AU,instead,False,other,0.681,From: Yes Bank,To: AU
+1tsojzg,post,2026-05-31 07:32:46,Axis,HDFC,from_to,False,other,0.951,From: Axis,To: HDFC
+1sigunn,post,2026-04-11 11:43:39,HDFC,HDFC,drop_for,True,other,0.849,From: HDFC,To: HDFC
+1s0conp,post,2026-03-22 04:47:24,Amex,HSBC,drop_for,False,other,0.976,From: Amex,To: HSBC
+1rzlobq,post,2026-03-21 07:51:48,Amex,Amex,arrow,True,other,0.332,From: Amex,To: Amex
+1rv2wi4,post,2026-03-16 07:29:10,SBI,SBI,drop_for,True,other,0.77,From: SBI,To: SBI
+1rlb9bi,post,2026-03-05 07:28:23,HDFC,HDFC,move_x_to,True,intent,0.496,From: HDFC,To: HDFC
+1qxccsu,post,2026-02-06 08:39:50,HDFC,SBI,from_to,False,other,0.608,From: HDFC,To: SBI
+1qqioxh,post,2026-01-29 19:38:35,Amex,Amex,from_to,True,other,0.865,From: Amex,To: Amex
+1qea8sr,post,2026-01-16 08:07:45,HDFC,HDFC,move_x_to,True,other,0.63,From: HDFC,To: HDFC
+1q0cw42,post,2025-12-31 13:22:10,HSBC,HSBC,from_to,True,other,0.949,From: HSBC,To: HSBC
+1pra9iw,post,2025-12-20 09:15:09,HDFC,HDFC,move_x_to,True,comparison,0.458,From: HDFC,To: HDFC
+1powsg5,post,2025-12-17 13:41:00,HDFC,HDFC,move_x_to,True,intent,0.465,From: HDFC,To: HDFC
+1powsg5,post,2025-12-17 13:41:00,Axis,Axis,move_x_to,True,intent,0.465,From: Axis,To: Axis
+1ou2ib3,post,2025-11-11 06:42:57,SBI,Axis,to_from,False,other,0.814,From: SBI,To: Axis
+1ohojw8,post,2025-10-27 19:50:43,HDFC,HDFC,drop_for,True,other,0.79,From: HDFC,To: HDFC
+1o6ni8b,post,2025-10-14 18:25:47,HDFC,HDFC,move_x_to,True,other,0.604,From: HDFC,To: HDFC
+1nwsxkd,post,2025-10-03 07:52:55,HDFC,HDFC,arrow,True,intent,0.529,From: HDFC,To: HDFC
+1nwswbc,post,2025-10-03 07:50:40,HDFC,HDFC,arrow,True,comparison,0.397,From: HDFC,To: HDFC
+1nggau0,post,2025-09-14 03:04:45,HDFC,HDFC,move_x_to,True,other,0.953,From: HDFC,To: HDFC
+1nfvwjx,post,2025-09-13 12:11:17,SBI,SBI,from_to,True,other,0.961,From: SBI,To: SBI
+1n6b73t,post,2025-09-02 05:28:54,Kotak,HDFC,to_from,False,other,0.626,From: Kotak,To: HDFC
+1mxwysq,post,2025-08-23 09:31:27,Axis,SBI,drop_for,False,other,0.686,From: Axis,To: SBI
+1mw2npg,post,2025-08-21 05:48:01,HDFC,HDFC,move_x_to,True,other,0.956,From: HDFC,To: HDFC
+1mv3yw9,post,2025-08-20 03:30:46,HDFC,HDFC,move_x_to,True,other,0.943,From: HDFC,To: HDFC
+1lzt923,post,2025-07-14 17:49:04,HDFC,Axis,from_to,False,other,0.809,From: HDFC,To: Axis
+1lq1c5b,post,2025-07-02 17:05:51,HDFC,HDFC,move_x_to,True,comparison,0.512,From: HDFC,To: HDFC
+1l4xi0w,post,2025-06-06 16:58:40,IDFC First,HDFC,from_to,False,comparison,0.382,From: IDFC First,To: HDFC
+1ksq9f4,post,2025-05-22 13:08:27,HDFC,HDFC,from_to,True,other,0.525,From: HDFC,To: HDFC
+1k8bma4,post,2025-04-26 12:17:40,HDFC,HDFC,from_to,True,intent,0.421,From: HDFC,To: HDFC
+1i9i08m,post,2025-01-25 07:44:00,SBI,SBI,move_x_to,True,other,0.616,From: SBI,To: SBI
+1wz0pd6,post,2026-10-06 11:58:28,Axis,HSBC,instead,False,other,0.792,From: Axis,To: HSBC
+1wz0pd6,post,2026-10-06 11:58:28,HDFC,HDFC,from_to,True,other,0.792,From: HDFC,To: HDFC
+1wxiqix,post,2026-10-04 15:41:43,ICICI,ICICI,arrow,True,other,0.996,From: ICICI,To: ICICI
+pdqut0y,comment,2026-10-04 04:21:16,HDFC,HDFC,move_x_to,True,other,0.675,From: HDFC,To: HDFC
+1wl9ggu,post,2026-09-20 06:36:25,Amex,HSBC,from_to,False,confirmed >=0.5,0.708,From: Amex,To: HSBC
+1wimvnb,post,2026-09-17 07:12:37,Axis,Axis,instead,True,confirmed >=0.5,0.681,From: Axis,To: Axis
+p8slxid,comment,2026-09-09 18:19:19,HDFC,HSBC,from_to,False,comparison,0.403,From: HDFC,To: HSBC
+1w9trhw,post,2026-09-07 14:30:35,Axis,Axis,from_to,True,other,0.452,From: Axis,To: Axis
+1w8sg2r,post,2026-09-06 10:22:14,Federal,HDFC,arrow,False,comparison,0.527,From: Federal,To: HDFC
+p7yvmyu,comment,2026-09-05 13:20:10,Axis,HSBC,from_to,False,comparison,0.39,From: Axis,To: HSBC
+p7tbpjg,comment,2026-09-04 17:08:36,HDFC,HDFC,move_x_to,True,other,0.926,From: HDFC,To: HDFC
+p7fl5s9,comment,2026-09-02 19:02:28,HSBC,HDFC,from_to,False,other,0.606,From: HSBC,To: HDFC
+p75g1r3,comment,2026-09-01 10:21:01,HSBC,HDFC,move_x_to,False,other,0.723,From: HSBC,To: HDFC
+1w3hmoz,post,2026-08-31 15:46:51,HDFC,HDFC,from_to,True,comparison,0.371,From: HDFC,To: HDFC
+p5y9a8y,comment,2026-08-26 05:25:22,Axis,HDFC,from_to,False,confirmed >=0.5,0.976,From: Axis,To: HDFC
+1vuerl4,post,2026-08-21 12:18:03,HDFC,HSBC,from_to,False,other,0.917,From: HDFC,To: HSBC
+1vsb4er,post,2026-08-19 03:37:00,HDFC,HDFC,move_x_to,True,intent,0.431,From: HDFC,To: HDFC
+p4dh1zh,comment,2026-08-18 07:22:32,SBI,SBI,arrow,True,other,0.404,From: SBI,To: SBI
+1vha82i,post,2026-08-06 17:07:22,Axis,HSBC,from_to,False,other,0.527,From: Axis,To: HSBC
+p1gy7km,comment,2026-08-03 16:03:31,HDFC,HSBC,drop_for,False,other,0.669,From: HDFC,To: HSBC
+p0hy1ge,comment,2026-07-29 16:33:33,ICICI,HSBC,from_to,False,confirmed >=0.5,0.891,From: ICICI,To: HSBC
+p06l4c4,comment,2026-07-28 01:53:43,HDFC,HSBC,from_to,False,confirmed >=0.5,0.746,From: HDFC,To: HSBC
+1v6tt02,post,2026-07-26 04:41:13,SBI,Kotak,drop_for,False,other,0.654,From: SBI,To: Kotak
+1v4efxo,post,2026-07-23 13:47:46,HDFC,Axis,from_to,False,comparison,0.474,From: HDFC,To: Axis
+1v424lv,post,2026-07-23 03:25:07,Axis,HSBC,drop_for,False,comparison,0.477,From: Axis,To: HSBC
+oxfzi8k,comment,2026-07-14 09:43:43,SBI,SBI,instead,True,other,0.742,From: SBI,To: SBI
+1uu8cr0,post,2026-07-12 07:11:17,HDFC,HDFC,move_x_to,True,other,0.409,From: HDFC,To: HDFC
+1uljscc,post,2026-07-02 14:26:22,HDFC,HDFC,move_x_to,True,other,0.625,From: HDFC,To: HDFC
+1ukeohv,post,2026-07-01 07:20:25,Kotak,Kotak,from_to,True,other,0.932,From: Kotak,To: Kotak
+1ugvp6k,post,2026-06-27 07:00:20,HDFC,HDFC,from_to,True,comparison,0.432,From: HDFC,To: HDFC
+1tx12hx,post,2026-06-04 21:25:00,HDFC,HDFC,from_to,True,other,0.685,From: HDFC,To: HDFC
+1tvyjli,post,2026-06-03 18:39:55,HDFC,HSBC,from_to,False,other,0.554,From: HDFC,To: HSBC
+1tojadg,post,2026-05-26 20:31:27,HDFC,HDFC,arrow,True,other,0.916,From: HDFC,To: HDFC
+1tmwe84,post,2026-05-25 02:58:24,Axis,Axis,move_x_to,True,other,0.341,From: Axis,To: Axis
+1su7x4j,post,2026-04-24 06:41:00,HDFC,HDFC,move_x_to,True,other,0.807,From: HDFC,To: HDFC
+1sdu9h9,post,2026-04-06 09:43:39,SBI,SBI,from_to,True,other,0.953,From: SBI,To: SBI
+1rlkfjb,post,2026-03-05 15:25:08,ICICI,HSBC,drop_for,False,comparison,0.5,From: ICICI,To: HSBC
+1rjmzxn,post,2026-03-03 11:33:57,HDFC,HDFC,to_from,True,intent,0.511,From: HDFC,To: HDFC
+1rapifk,post,2026-02-21 12:04:55,Amex,Amex,move_x_to,True,other,0.992,From: Amex,To: Amex
+1r5oi1a,post,2026-02-15 20:04:47,HDFC,HDFC,from_to,True,other,0.427,From: HDFC,To: HDFC
+1r4sr7u,post,2026-02-14 18:57:39,HDFC,HDFC,drop_for,True,other,0.983,From: HDFC,To: HDFC
+1r0384f,post,2026-02-09 12:44:00,StanChart,HSBC,drop_for,False,other,0.723,From: StanChart,To: HSBC
+1qzesmu,post,2026-02-08 17:21:49,HDFC,HDFC,move_x_to,True,comparison,0.567,From: HDFC,To: HDFC
+1qwhxi9,post,2026-02-05 10:37:35,HDFC,HDFC,move_x_to,True,other,0.421,From: HDFC,To: HDFC
+1qruamn,post,2026-01-31 05:57:39,HDFC,HDFC,move_x_to,True,other,0.617,From: HDFC,To: HDFC
+1qq4imu,post,2026-01-29 09:58:00,IDFC First,ICICI,move_x_to,False,other,0.938,From: IDFC First,To: ICICI
+1qhwwic,post,2026-01-20 09:47:38,IDFC First,IDFC First,move_x_to,True,other,0.988,From: IDFC First,To: IDFC First
+1q3gqj7,post,2026-01-04 04:47:25,HDFC,HDFC,drop_for,True,other,0.528,From: HDFC,To: HDFC
+1q1v8zm,post,2026-01-02 10:27:20,ICICI,HDFC,from_to,False,intent,0.582,From: ICICI,To: HDFC
+1pzkfhq,post,2025-12-30 15:07:00,ICICI,ICICI,move_x_to,True,other,0.997,From: ICICI,To: ICICI
+1pyh167,post,2025-12-29 08:32:13,HDFC,HDFC,to_from,True,other,0.959,From: HDFC,To: HDFC
+1px2gle,post,2025-12-27 16:52:40,Axis,HSBC,from_to,False,confirmed >=0.5,0.84,From: Axis,To: HSBC
+1puk41x,post,2025-12-24 10:14:24,HDFC,Axis,from_to,False,other,0.543,From: HDFC,To: Axis
+1pscbaw,post,2025-12-21 17:44:57,HDFC,HDFC,from_to,True,other,0.995,From: HDFC,To: HDFC
+1pnewe8,post,2025-12-15 18:26:15,HDFC,HDFC,from_to,True,other,0.451,From: HDFC,To: HDFC
+1pkm9cs,post,2025-12-12 07:49:48,Axis,Amex,move_x_to,False,other,0.888,From: Axis,To: Amex
+1pjuz3d,post,2025-12-11 11:13:02,HDFC,HDFC,to_from,True,other,0.483,From: HDFC,To: HDFC
+1ph7kw1,post,2025-12-08 08:50:13,ICICI,ICICI,move_x_to,True,other,0.863,From: ICICI,To: ICICI
+1pfo4sl,post,2025-12-06 12:26:49,HDFC,HDFC,to_from,True,other,0.981,From: HDFC,To: HDFC
+1oxlp97,post,2025-11-15 07:36:55,HDFC,HDFC,from_to,True,other,0.935,From: HDFC,To: HDFC
+1ow8c5b,post,2025-11-13 18:10:10,HDFC,HSBC,drop_for,False,confirmed >=0.5,0.658,From: HDFC,To: HSBC
+1ow8bpl,post,2025-11-13 18:09:43,HDFC,HSBC,drop_for,False,confirmed >=0.5,0.658,From: HDFC,To: HSBC
+1ofqo1x,post,2025-10-25 12:47:23,ICICI,ICICI,move_x_to,True,other,0.937,From: ICICI,To: ICICI
+1o2butv,post,2025-10-09 17:15:20,ICICI,IDFC First,move_x_to,False,other,0.975,From: ICICI,To: IDFC First
+1nhct41,post,2025-09-15 04:52:01,Amex,ICICI,arrow,False,other,0.754,From: Amex,To: ICICI
+1ng3man,post,2025-09-13 17:37:07,HDFC,HDFC,to_from,True,intent,0.502,From: HDFC,To: HDFC
+1mx2h28,post,2025-08-22 10:09:14,Axis,Axis,arrow,True,other,0.594,From: Axis,To: Axis
+1mx2h28,post,2025-08-22 10:09:14,ICICI,ICICI,arrow,True,other,0.594,From: ICICI,To: ICICI
+1mv8liw,post,2025-08-20 07:58:36,SBI,SBI,drop_for,True,comparison,0.572,From: SBI,To: SBI
+1mquyed,post,2025-08-15 11:22:47,HDFC,HDFC,move_x_to,True,other,0.969,From: HDFC,To: HDFC
+1luwmoc,post,2025-07-08 18:41:32,ICICI,ICICI,from_to,True,other,0.842,From: ICICI,To: ICICI
+1lh0061,post,2025-06-21 16:04:20,Axis,Axis,move_x_to,True,other,0.697,From: Axis,To: Axis
+1l66dbp,post,2025-06-08 07:26:02,HDFC,Axis,from_to,False,other,0.939,From: HDFC,To: Axis
+1l0jkkd,post,2025-06-01 07:59:17,HDFC,HDFC,move_x_to,True,other,0.956,From: HDFC,To: HDFC
+1kxkuoj,post,2025-05-28 16:01:22,Amex,ICICI,drop_for,False,confirmed <0.5,0.489,From: Amex,To: ICICI
+1kpcwoa,post,2025-05-18 05:48:54,Axis,Axis,instead,True,intent,0.498,From: Axis,To: Axis
+1kntl88,post,2025-05-16 05:53:21,HDFC,HDFC,to_from,True,other,0.642,From: HDFC,To: HDFC
+1kdy6em,post,2025-05-03 17:23:39,HDFC,HDFC,move_x_to,True,other,0.518,From: HDFC,To: HDFC
+1kdq0uc,post,2025-05-03 10:39:42,HDFC,HDFC,move_x_to,True,other,0.915,From: HDFC,To: HDFC
+1kd3sks,post,2025-05-02 15:27:54,HDFC,HDFC,drop_for,True,other,0.916,From: HDFC,To: HDFC
+1kaee0j,post,2025-04-29 03:24:10,Amex,Axis,move_x_to,False,comparison,0.401,From: Amex,To: Axis
+1jmgo1k,post,2025-03-29 07:00:07,Amex,Axis,move_x_to,False,other,0.973,From: Amex,To: Axis
+1jd6fll,post,2025-03-17 06:37:06,Amex,Amex,drop_for,True,other,0.478,From: Amex,To: Amex
+1j2flzp,post,2025-03-03 10:20:17,ICICI,HDFC,instead,False,other,0.995,From: ICICI,To: HDFC
+1i5motk,post,2025-01-20 09:45:19,HDFC,HDFC,move_x_to,True,other,0.685,From: HDFC,To: HDFC
+1i3w43d,post,2025-01-18 01:16:08,HDFC,HDFC,instead,True,other,0.989,From: HDFC,To: HDFC
+1htbwg4,post,2025-01-04 10:43:49,ICICI,ICICI,move_x_to,True,other,0.761,From: ICICI,To: ICICI
+peg0mbe,comment,2026-10-07 15:08:14,HDFC,HSBC,from_to,False,other,0.432,From: HDFC,To: HSBC
+pe5usg6,comment,2026-10-06 05:05:58,HDFC,ICICI,from_to,False,other,0.467,From: HDFC,To: ICICI
+pds3tmu,comment,2026-10-04 10:08:34,HDFC,IDFC First,instead,False,other,0.514,From: HDFC,To: IDFC First
+1wwoc2x,post,2026-10-03 14:16:08,Axis,Axis,from_to,True,other,0.529,From: Axis,To: Axis
+pdlcyc9,comment,2026-10-03 11:38:19,Amex,Amex,from_to,True,other,0.651,From: Amex,To: Amex
+pcbcg1m,comment,2026-09-27 05:51:37,SBI,HDFC,drop_for,False,other,0.733,From: SBI,To: HDFC
+pc2ehm0,comment,2026-09-25 22:50:26,HDFC,HDFC,move_x_to,True,other,0.947,From: HDFC,To: HDFC
+pbtmcw5,comment,2026-09-24 18:53:07,HDFC,HSBC,from_to,False,other,0.853,From: HDFC,To: HSBC
+1wnku43,post,2026-09-22 20:22:24,Axis,Axis,drop_for,True,other,0.867,From: Axis,To: Axis
+pbdvkvg,comment,2026-09-22 15:42:23,HDFC,IndusInd,drop_for,False,other,0.636,From: HDFC,To: IndusInd
+1wn86ka,post,2026-09-22 12:30:54,HDFC,HDFC,arrow,True,other,0.892,From: HDFC,To: HDFC
+1wn2zzj,post,2026-09-22 07:45:29,Axis,HSBC,from_to,False,other,0.59,From: Axis,To: HSBC
+1wlmtpy,post,2026-09-20 17:15:42,HSBC,Axis,from_to,False,other,0.78,From: HSBC,To: Axis
+paxaerl,comment,2026-09-20 08:37:07,HDFC,HSBC,move_x_to,False,other,0.401,From: HDFC,To: HSBC
+pax94fz,comment,2026-09-20 08:26:10,HSBC,HDFC,to_from,False,other,0.926,From: HSBC,To: HDFC
+pajjsdr,comment,2026-09-18 10:08:06,HSBC,HDFC,drop_for,False,other,0.965,From: HSBC,To: HDFC
+paaf96q,comment,2026-09-17 02:09:15,SBI,Axis,instead,False,other,0.863,From: SBI,To: Axis
+p9yn7d7,comment,2026-09-15 14:13:02,ICICI,HSBC,drop_for,False,other,0.574,From: ICICI,To: HSBC
+p934yks,comment,2026-09-11 03:26:07,SBI,Axis,drop_for,False,other,0.687,From: SBI,To: Axis
+1w9ppqw,post,2026-09-07 11:36:08,HDFC,ICICI,from_to,False,other,0.978,From: HDFC,To: ICICI
+p84q5hl,comment,2026-09-06 09:24:32,Axis,SBI,drop_for,False,intent,0.454,From: Axis,To: SBI
+1w61hu5,post,2026-09-03 08:31:12,HDFC,HDFC,move_x_to,True,other,0.979,From: HDFC,To: HDFC
+1w5wq6s,post,2026-09-03 04:03:42,HDFC,HSBC,from_to,False,confirmed >=0.5,0.718,From: HDFC,To: HSBC
+p7c5l21,comment,2026-09-02 08:14:46,HDFC,HSBC,drop_for,False,other,0.833,From: HDFC,To: HSBC
+1w38nfa,post,2026-08-31 09:26:38,ICICI,HSBC,from_to,False,comparison,0.445,From: ICICI,To: HSBC
+p6tbm3o,comment,2026-08-30 16:01:47,HDFC,SBI,instead,False,other,0.753,From: HDFC,To: SBI
+p6rxmvt,comment,2026-08-30 11:34:47,HDFC,HDFC,from_to,True,other,0.333,From: HDFC,To: HDFC
+p6qs9at,comment,2026-08-30 05:46:31,Axis,HSBC,from_to,False,other,0.483,From: Axis,To: HSBC
+1w1kpyg,post,2026-08-29 12:01:14,HDFC,HDFC,arrow,True,other,0.601,From: HDFC,To: HDFC
+p6kyx8d,comment,2026-08-29 10:01:12,ICICI,HDFC,drop_for,False,confirmed <0.5,0.308,From: ICICI,To: HDFC
+p6g560i,comment,2026-08-28 16:44:22,HDFC,HSBC,instead,False,other,0.715,From: HDFC,To: HSBC
+p5zwbnv,comment,2026-08-26 12:36:16,HDFC,HSBC,drop_for,False,other,0.627,From: HDFC,To: HSBC
+1vypodl,post,2026-08-26 07:03:33,HDFC,Axis,from_to,False,confirmed >=0.5,0.545,From: HDFC,To: Axis
+p5ryjks,comment,2026-08-25 10:40:00,ICICI,HDFC,from_to,False,confirmed <0.5,0.428,From: ICICI,To: HDFC
+1vvgvi5,post,2026-08-22 16:28:36,Axis,HDFC,from_to,False,other,0.557,From: Axis,To: HDFC
+1vup9er,post,2026-08-21 18:57:00,HDFC,HDFC,from_to,True,other,0.704,From: HDFC,To: HDFC
+p4k45a2,comment,2026-08-19 04:31:49,HSBC,SBI,move_x_to,False,other,0.865,From: HSBC,To: SBI
+p47cgx8,comment,2026-08-17 12:05:03,SBI,SBI,drop_for,True,other,0.967,From: SBI,To: SBI
+p3vc7zn,comment,2026-08-15 16:53:53,Amex,HDFC,from_to,False,other,0.539,From: Amex,To: HDFC
+p3eav32,comment,2026-08-13 06:57:46,HDFC,HDFC,move_x_to,True,other,0.632,From: HDFC,To: HDFC
+p3adaxt,comment,2026-08-12 18:07:55,HDFC,HDFC,move_x_to,True,other,0.66,From: HDFC,To: HDFC
+p399tii,comment,2026-08-12 15:21:54,Axis,ICICI,drop_for,False,other,0.631,From: Axis,To: ICICI
+p31rtef,comment,2026-08-11 14:54:10,ICICI,HSBC,to_from,False,confirmed <0.5,0.387,From: ICICI,To: HSBC
+1vjrucx,post,2026-08-09 14:51:24,ICICI,HSBC,from_to,False,comparison,0.368,From: ICICI,To: HSBC
+p2l9pjd,comment,2026-08-09 04:51:46,HDFC,HDFC,move_x_to,True,other,0.978,From: HDFC,To: HDFC
+p2ekkze,comment,2026-08-08 04:43:28,ICICI,HSBC,instead,False,other,0.922,From: ICICI,To: HSBC
+p2bfrmw,comment,2026-08-07 18:39:45,HDFC,HDFC,from_to,True,confirmed >=0.5,0.727,From: HDFC,To: HDFC
+1vg9c6c,post,2026-08-05 14:43:43,HDFC,HDFC,move_x_to,True,other,0.722,From: HDFC,To: HDFC
+1vffhlb,post,2026-08-04 16:35:57,ICICI,ICICI,from_to,True,other,0.967,From: ICICI,To: ICICI
+p1kgrit,comment,2026-08-04 01:52:23,IndusInd,IndusInd,drop_for,True,other,0.563,From: IndusInd,To: IndusInd
+p1hcv4c,comment,2026-08-03 17:04:19,HDFC,Axis,instead,False,other,0.928,From: HDFC,To: Axis
+p1dxqep,comment,2026-08-03 04:32:51,Kotak,HDFC,instead,False,intent,0.57,From: Kotak,To: HDFC
+p0tv7x0,comment,2026-07-31 07:20:35,HDFC,HDFC,move_x_to,True,other,0.879,From: HDFC,To: HDFC
+p0q0gcg,comment,2026-07-30 18:36:33,HDFC,HSBC,to_from,False,confirmed >=0.5,0.56,From: HDFC,To: HSBC
+p0nh7uo,comment,2026-07-30 11:43:36,HDFC,Axis,move_x_to,False,other,0.929,From: HDFC,To: Axis
+p08thq1,comment,2026-07-28 11:35:30,HDFC,Axis,from_to,False,other,0.662,From: HDFC,To: Axis
+p089zws,comment,2026-07-28 09:07:23,Axis,Amex,from_to,False,other,0.522,From: Axis,To: Amex
+ozthai7,comment,2026-07-26 06:19:11,IDFC First,SBI,instead,False,other,0.86,From: IDFC First,To: SBI
+ozglf7p,comment,2026-07-24 10:49:15,HDFC,HSBC,from_to,False,confirmed >=0.5,0.883,From: HDFC,To: HSBC
+ozg3i9w,comment,2026-07-24 08:28:08,HDFC,HDFC,arrow,True,other,0.811,From: HDFC,To: HDFC
+1v1jxyg,post,2026-07-20 12:20:47,ICICI,HDFC,move_x_to,False,confirmed <0.5,0.326,From: ICICI,To: HDFC
+1uw7ahq,post,2026-07-14 12:29:06,Axis,HSBC,pair_cues,False,other,0.671,From: Axis,To: HSBC
+ovxgnde,comment,2026-07-06 18:28:47,HDFC,HSBC,from_to,False,comparison,0.528,From: HDFC,To: HSBC
+1ug7brw,post,2026-06-26 13:46:01,ICICI,HDFC,from_to,False,other,0.698,From: ICICI,To: HDFC
+1u98afp,post,2026-06-18 14:46:59,HDFC,HDFC,from_to,True,other,0.591,From: HDFC,To: HDFC
+1u8353i,post,2026-06-17 07:15:11,HDFC,HDFC,arrow,True,other,0.995,From: HDFC,To: HDFC
+1u2um4k,post,2026-06-11 09:53:25,HDFC,Axis,from_to,False,confirmed >=0.5,0.792,From: HDFC,To: Axis
+1u0up2n,post,2026-06-09 04:20:38,HDFC,ICICI,drop_for,False,other,0.988,From: HDFC,To: ICICI
+1u0uie5,post,2026-06-09 04:11:10,HDFC,ICICI,drop_for,False,other,0.988,From: HDFC,To: ICICI
+1u0118z,post,2026-06-08 07:35:51,SBI,SBI,from_to,True,other,0.989,From: SBI,To: SBI
+1twhjfd,post,2026-06-04 08:30:50,SBI,SBI,move_x_to,True,other,0.967,From: SBI,To: SBI
+1tsqte3,post,2026-05-31 09:43:49,HSBC,HSBC,move_x_to,True,comparison,0.547,From: HSBC,To: HSBC
+1ts6ac4,post,2026-05-30 17:39:19,SBI,HDFC,from_to,False,other,0.981,From: SBI,To: HDFC
+1tkdbfw,post,2026-05-22 09:01:13,HDFC,HDFC,move_x_to,True,other,0.979,From: HDFC,To: HDFC
+1t1j4p4,post,2026-05-02 07:30:47,HDFC,HDFC,move_x_to,True,other,0.414,From: HDFC,To: HDFC
+1sv714m,post,2026-04-25 09:00:29,Axis,Axis,move_x_to,True,other,0.667,From: Axis,To: Axis
+1s8o803,post,2026-03-31 13:59:56,HDFC,Axis,from_to,False,confirmed >=0.5,0.898,From: HDFC,To: Axis
+1s6b3y8,post,2026-03-28 20:29:25,Axis,HDFC,arrow,False,other,0.548,From: Axis,To: HDFC
+1s5eo3b,post,2026-03-27 19:51:26,Amex,Amex,from_to,True,other,0.461,From: Amex,To: Amex
+1s4wsme,post,2026-03-27 06:51:22,Axis,HDFC,to_from,False,other,0.716,From: Axis,To: HDFC
+1s4b2p7,post,2026-03-26 15:43:18,Axis,Axis,from_to,True,other,0.987,From: Axis,To: Axis
+1ryz3wd,post,2026-03-20 15:19:26,Amex,ICICI,instead,False,other,0.994,From: Amex,To: ICICI
+1rve3pf,post,2026-03-16 16:22:03,SBI,SBI,from_to,True,intent,0.582,From: SBI,To: SBI
+1rvbbcc,post,2026-03-16 14:40:48,Axis,SBI,drop_for,False,other,0.88,From: Axis,To: SBI
+1rqrl2h,post,2026-03-11 11:50:27,SBI,Axis,drop_for,False,comparison,0.522,From: SBI,To: Axis
+1rpqdrs,post,2026-03-10 07:26:11,HDFC,HDFC,move_x_to,True,other,0.693,From: HDFC,To: HDFC
+1rmj6as,post,2026-03-06 16:48:12,Axis,Axis,drop_for,True,other,0.976,From: Axis,To: Axis
+1rmiyxl,post,2026-03-06 16:40:59,HDFC,ICICI,drop_for,False,other,0.919,From: HDFC,To: ICICI
+1rcek31,post,2026-02-23 11:04:36,HDFC,HSBC,from_to,False,other,0.96,From: HDFC,To: HSBC
+1r8zgac,post,2026-02-19 13:39:24,HDFC,ICICI,from_to,False,other,0.898,From: HDFC,To: ICICI
+1r7t2tk,post,2026-02-18 04:17:33,HDFC,Axis,from_to,False,other,0.98,From: HDFC,To: Axis
+1r3iob4,post,2026-02-13 07:15:29,HDFC,HDFC,from_to,True,other,0.697,From: HDFC,To: HDFC
+1r1wrv0,post,2026-02-11 13:01:49,Amex,HDFC,instead,False,other,0.879,From: Amex,To: HDFC
+1qs0i76,post,2026-01-31 11:57:48,Amex,Amex,move_x_to,True,other,0.386,From: Amex,To: Amex
+1qrzyyn,post,2026-01-31 11:28:37,ICICI,HDFC,from_to,False,other,0.899,From: ICICI,To: HDFC
+1qr7urs,post,2026-01-30 15:02:57,Kotak,HDFC,from_to,False,other,0.664,From: Kotak,To: HDFC
+1qo708d,post,2026-01-27 07:15:01,ICICI,HDFC,from_to,False,other,0.982,From: ICICI,To: HDFC
+1qkx5b8,post,2026-01-23 17:31:00,HDFC,HSBC,from_to,False,confirmed <0.5,0.349,From: HDFC,To: HSBC
+1q2smnl,post,2026-01-03 11:42:32,HDFC,HDFC,move_x_to,True,confirmed >=0.5,0.801,From: HDFC,To: HDFC
+1q2sl2p,post,2026-01-03 11:40:03,HDFC,HDFC,move_x_to,True,confirmed >=0.5,0.802,From: HDFC,To: HDFC
+1pxk8u3,post,2025-12-28 06:19:46,ICICI,ICICI,move_x_to,True,other,0.994,From: ICICI,To: ICICI
+1ptp42r,post,2025-12-23 08:46:33,Citi,Axis,arrow,False,other,0.533,From: Citi,To: Axis
+1pri14x,post,2025-12-20 16:15:47,HDFC,HDFC,from_to,True,other,0.897,From: HDFC,To: HDFC
+1pg865c,post,2025-12-07 03:29:03,HDFC,HDFC,to_from,True,other,0.856,From: HDFC,To: HDFC
+1pezqk8,post,2025-12-05 16:36:11,HDFC,HDFC,arrow,True,other,0.907,From: HDFC,To: HDFC
+1pepef1,post,2025-12-05 07:59:05,HDFC,Axis,move_x_to,False,other,0.529,From: HDFC,To: Axis
+1pe4k62,post,2025-12-04 16:32:58,ICICI,IndusInd,instead,False,other,0.958,From: ICICI,To: IndusInd
+1pb37fi,post,2025-12-01 04:21:34,Axis,Axis,move_x_to,True,other,0.857,From: Axis,To: Axis
+1p4odks,post,2025-11-23 14:43:10,HDFC,HDFC,from_to,True,other,0.987,From: HDFC,To: HDFC
+1p2spew,post,2025-11-21 07:49:30,HDFC,HDFC,from_to,True,other,0.981,From: HDFC,To: HDFC
+1oydw4t,post,2025-11-16 05:51:56,ICICI,IndusInd,instead,False,other,0.996,From: ICICI,To: IndusInd
+1oxta6w,post,2025-11-15 14:37:57,Amex,Axis,drop_for,False,other,0.871,From: Amex,To: Axis
+1on7o7v,post,2025-11-03 09:51:49,SBI,HDFC,from_to,False,other,0.416,From: SBI,To: HDFC
+1ogmgtm,post,2025-10-26 14:47:33,Axis,HDFC,from_to,False,other,0.612,From: Axis,To: HDFC
+1odwhqr,post,2025-10-23 07:01:00,ICICI,HDFC,from_to,False,other,0.831,From: ICICI,To: HDFC
+1ocf5eo,post,2025-10-21 14:55:13,ICICI,HSBC,from_to,False,other,0.789,From: ICICI,To: HSBC
+1o7k4o9,post,2025-10-15 19:08:47,ICICI,Axis,drop_for,False,confirmed >=0.5,0.779,From: ICICI,To: Axis
+1o73hf2,post,2025-10-15 06:21:35,HDFC,HDFC,arrow,True,other,0.971,From: HDFC,To: HDFC
+1o6kwte,post,2025-10-14 16:52:17,HDFC,HDFC,arrow,True,comparison,0.365,From: HDFC,To: HDFC
+1o5s9ij,post,2025-10-13 18:41:03,HDFC,HDFC,from_to,True,other,0.835,From: HDFC,To: HDFC
+1np3z5q,post,2025-09-24 05:29:15,HDFC,Axis,arrow,False,other,0.675,From: HDFC,To: Axis
+1nof3f6,post,2025-09-23 11:43:46,Axis,Axis,move_x_to,True,other,0.738,From: Axis,To: Axis
+1nof3f6,post,2025-09-23 11:43:46,HDFC,HDFC,move_x_to,True,other,0.738,From: HDFC,To: HDFC
+1njfbwb,post,2025-09-17 14:53:15,HDFC,ICICI,to_from,False,other,0.631,From: HDFC,To: ICICI
+1nhehb0,post,2025-09-15 06:31:31,Axis,Axis,from_to,True,other,0.514,From: Axis,To: Axis
+1nfc8km,post,2025-09-12 19:21:45,HDFC,HDFC,move_x_to,True,confirmed >=0.5,0.762,From: HDFC,To: HDFC
+1neybeb,post,2025-09-12 09:10:14,ICICI,ICICI,move_x_to,True,other,0.858,From: ICICI,To: ICICI
+1nbyn7i,post,2025-09-08 20:18:38,IndusInd,Kotak,from_to,False,other,0.592,From: IndusInd,To: Kotak
+1nan68i,post,2025-09-07 07:40:05,ICICI,ICICI,arrow,True,other,0.992,From: ICICI,To: ICICI
+1na4v6o,post,2025-09-06 17:07:04,HDFC,HDFC,move_x_to,True,other,0.952,From: HDFC,To: HDFC
+1n92wbk,post,2025-09-05 11:39:39,HDFC,HDFC,drop_for,True,other,0.637,From: HDFC,To: HDFC
+1n4lj3k,post,2025-08-31 04:27:36,HDFC,Axis,to_from,False,other,0.813,From: HDFC,To: Axis
+1mxkqsv,post,2025-08-22 22:39:24,ICICI,ICICI,drop_for,True,other,0.991,From: ICICI,To: ICICI
+1mv4cpn,post,2025-08-20 03:50:17,HDFC,HDFC,move_x_to,True,other,0.993,From: HDFC,To: HDFC
+1mo2bxi,post,2025-08-12 07:37:02,HDFC,HSBC,from_to,False,comparison,0.349,From: HDFC,To: HSBC
+1mksfmr,post,2025-08-08 11:16:46,Amex,HDFC,to_from,False,other,0.83,From: Amex,To: HDFC
+1mhzi5p,post,2025-08-05 04:19:02,HDFC,ICICI,drop_for,False,other,0.721,From: HDFC,To: ICICI
+1m8u3tz,post,2025-07-25 08:52:31,ICICI,HDFC,from_to,False,comparison,0.373,From: ICICI,To: HDFC
+1lzsizp,post,2025-07-14 17:22:36,HDFC,HDFC,move_x_to,True,other,0.667,From: HDFC,To: HDFC
+1lzip5f,post,2025-07-14 10:19:10,HDFC,HDFC,move_x_to,True,other,0.592,From: HDFC,To: HDFC
+1lw87j7,post,2025-07-10 09:19:04,HDFC,HDFC,drop_for,True,other,0.941,From: HDFC,To: HDFC
+1lujb0p,post,2025-07-08 08:30:14,HDFC,HDFC,from_to,True,other,0.865,From: HDFC,To: HDFC
+1lpmx16,post,2025-07-02 04:38:31,HDFC,HDFC,from_to,True,other,0.872,From: HDFC,To: HDFC
+1lnfe1w,post,2025-06-29 14:00:52,HDFC,HDFC,move_x_to,True,other,0.985,From: HDFC,To: HDFC
+1lhiknl,post,2025-06-22 07:57:15,HDFC,HDFC,move_x_to,True,other,0.585,From: HDFC,To: HDFC
+1lfxh5x,post,2025-06-20 07:00:38,HDFC,HDFC,from_to,True,other,0.863,From: HDFC,To: HDFC
+1l85wda,post,2025-06-10 18:10:50,IDFC First,IDFC First,move_x_to,True,other,0.984,From: IDFC First,To: IDFC First
+1l7rzhm,post,2025-06-10 06:45:53,HDFC,HDFC,to_from,True,other,0.883,From: HDFC,To: HDFC
+1l4lsdk,post,2025-06-06 06:43:16,HDFC,HDFC,move_x_to,True,other,0.995,From: HDFC,To: HDFC
+1l27r3u,post,2025-06-03 09:46:43,Axis,ICICI,to_from,False,confirmed >=0.5,0.93,From: Axis,To: ICICI
+1l1puwd,post,2025-06-02 18:36:33,Axis,HSBC,from_to,False,other,0.917,From: Axis,To: HSBC
+1kq9wdg,post,2025-05-19 12:01:27,HDFC,HDFC,from_to,True,other,0.946,From: HDFC,To: HDFC
+1kn95p1,post,2025-05-15 14:09:36,HDFC,HDFC,arrow,True,other,0.902,From: HDFC,To: HDFC
+1kh0uen,post,2025-05-07 15:54:37,HDFC,HDFC,from_to,True,other,0.939,From: HDFC,To: HDFC
+1kfm7i4,post,2025-05-05 20:35:35,ICICI,HDFC,from_to,False,confirmed >=0.5,0.5,From: ICICI,To: HDFC
+1kcd6i4,post,2025-05-01 16:35:48,Axis,SBI,drop_for,False,other,0.705,From: Axis,To: SBI
+1k7fy64,post,2025-04-25 08:32:28,HDFC,Axis,to_from,False,other,0.937,From: HDFC,To: Axis
+1k1lmqj,post,2025-04-17 19:37:04,HDFC,HDFC,arrow,True,other,0.649,From: HDFC,To: HDFC
+1jsq76k,post,2025-04-06 09:20:53,HDFC,HDFC,from_to,True,other,0.691,From: HDFC,To: HDFC
+1jlqjq1,post,2025-03-28 08:43:46,HDFC,HDFC,to_from,True,other,0.81,From: HDFC,To: HDFC
+1jkahhl,post,2025-03-26 12:23:56,HDFC,HDFC,arrow,True,other,0.932,From: HDFC,To: HDFC
+1jjke0r,post,2025-03-25 14:16:20,Citi,Axis,from_to,False,other,0.907,From: Citi,To: Axis
+1jhsg4t,post,2025-03-23 05:45:38,HDFC,HDFC,from_to,True,confirmed >=0.5,0.646,From: HDFC,To: HDFC
+1jh30w6,post,2025-03-22 07:22:43,Axis,HDFC,from_to,False,other,0.426,From: Axis,To: HDFC
+1j3zi8e,post,2025-03-05 09:45:06,SBI,HDFC,drop_for,False,other,0.74,From: SBI,To: HDFC
+1iwws9f,post,2025-02-24 07:48:54,HDFC,HDFC,move_x_to,True,other,0.98,From: HDFC,To: HDFC
+1iity6r,post,2025-02-06 04:10:56,Axis,SBI,from_to,False,other,0.868,From: Axis,To: SBI
+1ihbwie,post,2025-02-04 06:54:58,Axis,HDFC,to_from,False,other,0.767,From: Axis,To: HDFC
+1i7xqjf,post,2025-01-23 07:00:34,Axis,Yes Bank,from_to,False,other,0.487,From: Axis,To: Yes Bank
+1i7e52x,post,2025-01-22 15:49:06,Axis,Axis,move_x_to,True,other,0.582,From: Axis,To: Axis
+1i6hxcz,post,2025-01-21 12:54:04,ICICI,Amex,from_to,False,other,0.562,From: ICICI,To: Amex
+1i4tfvh,post,2025-01-19 07:46:07,ICICI,ICICI,move_x_to,True,other,0.968,From: ICICI,To: ICICI
+1i185t2,post,2025-01-14 15:10:46,HDFC,HDFC,from_to,True,other,0.811,From: HDFC,To: HDFC
+1hvqj7i,post,2025-01-07 12:39:20,HSBC,HSBC,from_to,True,other,0.992,From: HSBC,To: HSBC
+pel7q6z,comment,2026-10-08 06:42:55,HDFC,HDFC,to_from,True,other,0.39,From: HDFC,To: HDFC
+pe5pxhp,comment,2026-10-06 04:31:05,HDFC,HDFC,to_from,True,other,0.432,From: HDFC,To: HDFC
+pdl2p7x,comment,2026-10-03 10:22:26,HDFC,HDFC,from_to,True,other,0.973,From: HDFC,To: HDFC
+pdkxq31,comment,2026-10-03 09:41:47,HDFC,HDFC,from_to,True,other,0.965,From: HDFC,To: HDFC
+pdg8g3s,comment,2026-10-02 17:23:24,HDFC,HDFC,move_x_to,True,other,0.938,From: HDFC,To: HDFC
+pd5swp3,comment,2026-10-01 06:44:52,HSBC,HSBC,move_x_to,True,other,0.849,From: HSBC,To: HSBC
+1wrgbwx,post,2026-09-27 09:59:48,HDFC,HDFC,to_from,True,other,0.927,From: HDFC,To: HDFC
+1wpygnp,post,2026-09-25 14:54:30,RBL,RBL,arrow,True,other,0.526,From: RBL,To: RBL
+1wpoan4,post,2026-09-25 05:46:26,ICICI,ICICI,instead,True,other,0.997,From: ICICI,To: ICICI
+1woqm76,post,2026-09-24 03:16:40,ICICI,ICICI,instead,True,other,0.982,From: ICICI,To: ICICI
+pbjgb7b,comment,2026-09-23 10:40:56,HDFC,HDFC,drop_for,True,confirmed >=0.5,0.622,From: HDFC,To: HDFC
+1wn8aew,post,2026-09-22 12:35:41,RBL,RBL,from_to,True,other,0.987,From: RBL,To: RBL
+pawk10n,comment,2026-09-20 05:05:05,HDFC,HDFC,move_x_to,True,other,0.946,From: HDFC,To: HDFC
+paqk3de,comment,2026-09-19 09:36:10,HDFC,HDFC,move_x_to,True,other,0.921,From: HDFC,To: HDFC
+pajquf9,comment,2026-09-18 10:58:50,HDFC,HDFC,arrow,True,other,0.723,From: HDFC,To: HDFC
+paiukd9,comment,2026-09-18 06:32:25,SBI,SBI,move_x_to,True,other,0.975,From: SBI,To: SBI
+1wj2p57,post,2026-09-17 18:50:59,HDFC,HDFC,move_x_to,True,other,0.957,From: HDFC,To: HDFC
+pac987v,comment,2026-09-17 10:18:31,HDFC,HDFC,move_x_to,True,other,0.96,From: HDFC,To: HDFC
+1whvsd6,post,2026-09-16 12:26:12,Axis,Axis,arrow,True,other,0.954,From: Axis,To: Axis
+1wh0i86,post,2026-09-15 13:31:31,Axis,Axis,move_x_to,True,confirmed >=0.5,0.514,From: Axis,To: Axis
+p9pu2jb,comment,2026-09-14 08:55:38,HDFC,HDFC,to_from,True,other,0.936,From: HDFC,To: HDFC
+p9bpad6,comment,2026-09-12 10:11:11,HDFC,HDFC,move_x_to,True,other,0.65,From: HDFC,To: HDFC
+1we86w5,post,2026-09-12 09:40:14,HDFC,HDFC,from_to,True,other,0.8,From: HDFC,To: HDFC
+p95nkg1,comment,2026-09-11 13:52:19,Axis,Axis,move_x_to,True,confirmed <0.5,0.401,From: Axis,To: Axis
+p938izi,comment,2026-09-11 03:48:27,HDFC,HDFC,to_from,True,confirmed >=0.5,0.526,From: HDFC,To: HDFC
+p92vi6w,comment,2026-09-11 02:33:23,Axis,Axis,move_x_to,True,other,0.761,From: Axis,To: Axis
+p8wdr7q,comment,2026-09-10 05:59:12,HDFC,HDFC,move_x_to,True,other,0.542,From: HDFC,To: HDFC
+p8pwts1,comment,2026-09-09 10:29:33,HDFC,HDFC,move_x_to,True,other,0.804,From: HDFC,To: HDFC
+1wa12gg,post,2026-09-07 18:59:28,HDFC,HDFC,drop_for,True,other,0.903,From: HDFC,To: HDFC
+1w9qg5j,post,2026-09-07 12:11:16,HDFC,HDFC,drop_for,True,other,0.984,From: HDFC,To: HDFC
+p8bdgx0,comment,2026-09-07 08:19:00,HSBC,HSBC,move_x_to,True,other,0.832,From: HSBC,To: HSBC
+p83mldh,comment,2026-09-06 04:05:24,HDFC,HDFC,from_to,True,confirmed <0.5,0.435,From: HDFC,To: HDFC
+p7yxnfk,comment,2026-09-05 13:31:03,HDFC,HDFC,from_to,True,confirmed <0.5,0.472,From: HDFC,To: HDFC
+p7qfp2e,comment,2026-09-04 07:14:47,Axis,Axis,to_from,True,other,0.462,From: Axis,To: Axis
+1w638h1,post,2026-09-03 10:11:59,Axis,Axis,from_to,True,other,0.905,From: Axis,To: Axis
+1w633um,post,2026-09-03 10:04:55,HDFC,HDFC,move_x_to,True,other,0.802,From: HDFC,To: HDFC
+1w62j6j,post,2026-09-03 09:32:39,HDFC,HDFC,arrow,True,comparison,0.479,From: HDFC,To: HDFC
+p70kbb5,comment,2026-08-31 17:12:54,HDFC,HDFC,from_to,True,confirmed <0.5,0.389,From: HDFC,To: HDFC
+p7049rj,comment,2026-08-31 16:03:11,HDFC,HDFC,from_to,True,confirmed <0.5,0.389,From: HDFC,To: HDFC
+1w2gzy2,post,2026-08-30 13:02:09,HDFC,HDFC,from_to,True,confirmed <0.5,0.499,From: HDFC,To: HDFC
+p6fw5zn,comment,2026-08-28 16:05:24,HDFC,HDFC,to_from,True,other,0.935,From: HDFC,To: HDFC
+1w0jmgo,post,2026-08-28 07:21:26,HDFC,HDFC,drop_for,True,other,0.927,From: HDFC,To: HDFC
+p5xwi9x,comment,2026-08-26 03:55:51,HDFC,HDFC,from_to,True,confirmed >=0.5,0.604,From: HDFC,To: HDFC
+p5wtsl1,comment,2026-08-26 00:16:10,HDFC,HDFC,move_x_to,True,confirmed <0.5,0.372,From: HDFC,To: HDFC
+p5rkvtd,comment,2026-08-25 08:52:03,HDFC,HDFC,from_to,True,other,0.41,From: HDFC,To: HDFC
+1vxu2ag,post,2026-08-25 08:39:21,HDFC,HDFC,drop_for,True,other,0.965,From: HDFC,To: HDFC
+p5rf7xb,comment,2026-08-25 08:03:32,HDFC,HDFC,move_x_to,True,other,0.914,From: HDFC,To: HDFC
+1vx5fjq,post,2026-08-24 15:06:52,HDFC,HDFC,to_from,True,other,0.992,From: HDFC,To: HDFC
+1vx0fsd,post,2026-08-24 11:43:09,HDFC,HDFC,to_from,True,other,0.676,From: HDFC,To: HDFC
+p52dzsh,comment,2026-08-21 17:39:35,HDFC,HDFC,arrow,True,other,0.848,From: HDFC,To: HDFC
+p51uh38,comment,2026-08-21 16:15:55,HDFC,HDFC,to_from,True,other,0.907,From: HDFC,To: HDFC
+1vuc4ce,post,2026-08-21 10:07:02,HDFC,HDFC,from_to,True,other,0.937,From: HDFC,To: HDFC
+p4vqewz,comment,2026-08-20 19:07:26,HDFC,HDFC,from_to,True,other,0.839,From: HDFC,To: HDFC
+p4tal2f,comment,2026-08-20 12:43:58,HDFC,HDFC,move_x_to,True,other,0.462,From: HDFC,To: HDFC
+p4rwmea,comment,2026-08-20 06:42:19,HDFC,HDFC,move_x_to,True,other,0.97,From: HDFC,To: HDFC
+p4kzyqu,comment,2026-08-19 08:47:43,HDFC,HDFC,drop_for,True,other,0.976,From: HDFC,To: HDFC
+1vrvq6g,post,2026-08-18 17:21:18,HDFC,HDFC,from_to,True,other,0.974,From: HDFC,To: HDFC
+p4fy7oc,comment,2026-08-18 16:10:45,HDFC,HDFC,to_from,True,other,0.955,From: HDFC,To: HDFC
+p4dq5q4,comment,2026-08-18 08:41:13,HDFC,HDFC,drop_for,True,other,0.913,From: HDFC,To: HDFC
+p3nhswi,comment,2026-08-14 14:16:22,Axis,Axis,drop_for,True,confirmed >=0.5,0.594,From: Axis,To: Axis
+p3l0skx,comment,2026-08-14 04:17:09,HDFC,HDFC,move_x_to,True,other,0.961,From: HDFC,To: HDFC
+p3ij5il,comment,2026-08-13 20:18:22,SBI,SBI,to_from,True,other,0.874,From: SBI,To: SBI
+1vn3fzn,post,2026-08-13 07:03:53,HDFC,HDFC,instead,True,other,0.996,From: HDFC,To: HDFC
+1vlh1r5,post,2026-08-11 13:10:22,Amex,Amex,move_x_to,True,other,0.993,From: Amex,To: Amex
+p2yp0i1,comment,2026-08-11 02:45:14,HDFC,HDFC,move_x_to,True,other,0.956,From: HDFC,To: HDFC
+p2ttkqm,comment,2026-08-10 13:00:55,HDFC,HDFC,from_to,True,other,0.858,From: HDFC,To: HDFC
+1vk9asi,post,2026-08-10 03:07:28,HDFC,HDFC,move_x_to,True,confirmed <0.5,0.369,From: HDFC,To: HDFC
+p2ls9jb,comment,2026-08-09 07:20:33,HDFC,HDFC,from_to,True,confirmed >=0.5,0.543,From: HDFC,To: HDFC
+1vgwydd,post,2026-08-06 07:06:17,HDFC,HDFC,move_x_to,True,other,0.576,From: HDFC,To: HDFC
+p1vz6e5,comment,2026-08-05 16:46:55,Axis,Axis,move_x_to,True,other,0.864,From: Axis,To: Axis
+p1ume0w,comment,2026-08-05 13:15:53,HDFC,HDFC,move_x_to,True,confirmed >=0.5,0.622,From: HDFC,To: HDFC
+1vg6tmd,post,2026-08-05 13:04:51,HDFC,HDFC,from_to,True,other,0.969,From: HDFC,To: HDFC
+1vfvecu,post,2026-08-05 03:04:42,Axis,Axis,move_x_to,True,other,0.975,From: Axis,To: Axis
+p1nyj9c,comment,2026-08-04 15:15:03,HDFC,HDFC,arrow,True,comparison,0.479,From: HDFC,To: HDFC
+1vfc2qc,post,2026-08-04 14:33:07,Amex,Amex,to_from,True,other,0.936,From: Amex,To: Amex
+p1d9zfu,comment,2026-08-03 01:58:09,HDFC,HDFC,from_to,True,other,0.663,From: HDFC,To: HDFC
+1vdmzdm,post,2026-08-02 16:47:50,HDFC,HDFC,move_x_to,True,other,0.992,From: HDFC,To: HDFC
+p19ix2e,comment,2026-08-02 14:54:43,HDFC,HDFC,from_to,True,other,0.814,From: HDFC,To: HDFC
+p18f4w6,comment,2026-08-02 11:00:26,HDFC,HDFC,drop_for,True,other,0.951,From: HDFC,To: HDFC
+1vdf2wm,post,2026-08-02 10:57:16,HDFC,HDFC,from_to,True,other,0.994,From: HDFC,To: HDFC
+p0m3z3i,comment,2026-07-30 05:21:39,HDFC,HDFC,move_x_to,True,other,0.948,From: HDFC,To: HDFC
+p0hgmz5,comment,2026-07-29 15:20:28,HDFC,HDFC,from_to,True,other,0.937,From: HDFC,To: HDFC
+1v7vbrw,post,2026-07-27 09:23:23,HDFC,HDFC,to_from,True,other,0.701,From: HDFC,To: HDFC
+1v71qc3,post,2026-07-26 11:50:16,HDFC,HDFC,from_to,True,other,0.708,From: HDFC,To: HDFC
+1v6rz06,post,2026-07-26 03:09:19,HDFC,HDFC,to_from,True,other,0.961,From: HDFC,To: HDFC
+ozrirn5,comment,2026-07-25 22:41:58,HDFC,HDFC,arrow,True,other,0.963,From: HDFC,To: HDFC
+ozqy7hq,comment,2026-07-25 20:52:59,HDFC,HDFC,move_x_to,True,other,0.823,From: HDFC,To: HDFC
+1v6encw,post,2026-07-25 17:38:43,SBI,SBI,instead,True,other,0.954,From: SBI,To: SBI
+1v60wyu,post,2026-07-25 06:54:35,HDFC,HDFC,move_x_to,True,other,0.853,From: HDFC,To: HDFC
+oz9oxab,comment,2026-07-23 12:21:20,HDFC,HDFC,to_from,True,other,0.487,From: HDFC,To: HDFC
+oz8v1ck,comment,2026-07-23 08:55:07,HDFC,HDFC,from_to,True,confirmed <0.5,0.494,From: HDFC,To: HDFC
+oz3qr99,comment,2026-07-22 16:17:59,HSBC,HSBC,drop_for,True,other,0.592,From: HSBC,To: HSBC
+oz223jc,comment,2026-07-22 11:35:14,HDFC,HDFC,from_to,True,other,0.982,From: HDFC,To: HDFC
+1v2u03b,post,2026-07-21 20:19:00,SBI,SBI,from_to,True,other,0.981,From: SBI,To: SBI
+oylwgqo,comment,2026-07-20 03:45:43,HDFC,HDFC,move_x_to,True,other,0.891,From: HDFC,To: HDFC
+oy8nb47,comment,2026-07-18 05:54:44,HDFC,HDFC,from_to,True,other,0.869,From: HDFC,To: HDFC
+1uyndro,post,2026-07-17 02:47:43,HDFC,HDFC,from_to,True,other,0.915,From: HDFC,To: HDFC
+oxgfl41,comment,2026-07-14 11:38:15,ICICI,ICICI,from_to,True,other,0.72,From: ICICI,To: ICICI
+oxat07w,comment,2026-07-13 16:20:11,HDFC,HDFC,drop_for,True,other,0.821,From: HDFC,To: HDFC
+1uu4on4,post,2026-07-12 03:59:12,HDFC,HDFC,from_to,True,other,0.614,From: HDFC,To: HDFC
+owypkaf,comment,2026-07-11 21:14:26,HDFC,HDFC,arrow,True,other,0.739,From: HDFC,To: HDFC
+owqe27e,comment,2026-07-10 17:00:21,Axis,Axis,move_x_to,True,other,0.916,From: Axis,To: Axis
+1uryr87,post,2026-07-09 18:29:52,IDFC First,Federal,from_to,False,other,0.973,From: IDFC First,To: Federal
+ow7t5s7,comment,2026-07-08 02:57:56,HDFC,HDFC,to_from,True,other,0.955,From: HDFC,To: HDFC
+1un0he8,post,2026-07-04 05:24:49,HDFC,HDFC,from_to,True,other,0.99,From: HDFC,To: HDFC
+1ujots4,post,2026-06-30 13:10:35,HDFC,HDFC,from_to,True,other,0.988,From: HDFC,To: HDFC
+1uhq17y,post,2026-06-28 06:45:54,HDFC,HDFC,to_from,True,other,0.996,From: HDFC,To: HDFC
+1ugvltr,post,2026-06-27 06:55:12,HDFC,HDFC,from_to,True,other,0.8,From: HDFC,To: HDFC
+1uguit3,post,2026-06-27 05:54:56,HDFC,HDFC,from_to,True,other,0.833,From: HDFC,To: HDFC
+1udlcnh,post,2026-06-23 16:06:02,ICICI,ICICI,from_to,True,other,0.957,From: ICICI,To: ICICI
+1ucm3w0,post,2026-06-22 14:28:22,HDFC,HDFC,to_from,True,other,0.953,From: HDFC,To: HDFC
+1uccapn,post,2026-06-22 05:57:16,HDFC,HDFC,arrow,True,other,0.882,From: HDFC,To: HDFC
+1ub3hy3,post,2026-06-20 18:17:41,HDFC,HDFC,arrow,True,other,0.966,From: HDFC,To: HDFC
+1uavtr8,post,2026-06-20 12:49:36,HDFC,HDFC,move_x_to,True,other,0.623,From: HDFC,To: HDFC
+1uamywh,post,2026-06-20 04:22:32,HDFC,HDFC,move_x_to,True,other,0.935,From: HDFC,To: HDFC
+1u348zo,post,2026-06-11 16:40:49,HDFC,HDFC,move_x_to,True,other,0.97,From: HDFC,To: HDFC
+1u2d9m3,post,2026-06-10 20:04:29,HDFC,HDFC,move_x_to,True,other,0.977,From: HDFC,To: HDFC
+1u10xn2,post,2026-06-09 10:17:31,HDFC,HDFC,from_to,True,other,0.986,From: HDFC,To: HDFC
+1u0skit,post,2026-06-09 02:36:58,HDFC,HDFC,move_x_to,True,other,0.991,From: HDFC,To: HDFC
+1tz6x3c,post,2026-06-07 08:54:44,HDFC,HDFC,arrow,True,other,0.505,From: HDFC,To: HDFC
+1twllxp,post,2026-06-04 12:02:39,HDFC,HDFC,from_to,True,other,0.964,From: HDFC,To: HDFC
+1tt47mc,post,2026-05-31 19:03:26,HDFC,HDFC,from_to,True,other,0.733,From: HDFC,To: HDFC
+1tn12hp,post,2026-05-25 06:49:15,HDFC,HDFC,from_to,True,other,0.976,From: HDFC,To: HDFC
+1tkj88p,post,2026-05-22 13:36:13,Axis,Axis,drop_for,True,other,0.99,From: Axis,To: Axis
+1tjq1km,post,2026-05-21 16:36:59,HDFC,HDFC,from_to,True,other,0.995,From: HDFC,To: HDFC
+1tirhed,post,2026-05-20 16:49:39,SBI,SBI,drop_for,True,other,0.909,From: SBI,To: SBI
+1timcep,post,2026-05-20 13:51:15,HDFC,HDFC,to_from,True,confirmed >=0.5,0.683,From: HDFC,To: HDFC
+1tgg0en,post,2026-05-18 08:11:55,HDFC,HDFC,from_to,True,confirmed >=0.5,0.804,From: HDFC,To: HDFC
+1tg7qoe,post,2026-05-18 01:15:41,SBI,SBI,from_to,True,other,0.881,From: SBI,To: SBI
+1tfnmh8,post,2026-05-17 12:03:26,HDFC,HDFC,move_x_to,True,other,0.98,From: HDFC,To: HDFC
+1tdnr8y,post,2026-05-15 06:18:57,HDFC,HDFC,from_to,True,intent,0.36,From: HDFC,To: HDFC
+1td6j6a,post,2026-05-14 18:17:06,Yes Bank,Yes Bank,arrow,True,other,0.993,From: Yes Bank,To: Yes Bank
+1tczy16,post,2026-05-14 14:30:44,HDFC,HDFC,from_to,True,other,0.929,From: HDFC,To: HDFC
+1t7q3k3,post,2026-05-09 00:51:30,HDFC,HDFC,move_x_to,True,other,0.991,From: HDFC,To: HDFC
+1t71nra,post,2026-05-08 08:19:00,HDFC,HDFC,from_to,True,confirmed >=0.5,0.555,From: HDFC,To: HDFC
+1t5eild,post,2026-05-06 14:26:23,HDFC,HDFC,drop_for,True,other,0.987,From: HDFC,To: HDFC
+1t0zjot,post,2026-05-01 17:11:58,HDFC,HDFC,to_from,True,other,0.746,From: HDFC,To: HDFC
+1sws6eg,post,2026-04-27 03:29:53,HDFC,HDFC,move_x_to,True,other,0.88,From: HDFC,To: HDFC
+1sw8s94,post,2026-04-26 14:19:32,HDFC,HDFC,move_x_to,True,other,0.972,From: HDFC,To: HDFC
+1svhz05,post,2026-04-25 17:16:00,HDFC,HDFC,to_from,True,other,0.552,From: HDFC,To: HDFC
+1socfub,post,2026-04-17 20:22:04,HDFC,HDFC,from_to,True,other,0.803,From: HDFC,To: HDFC
+1so42b3,post,2026-04-17 15:20:47,HDFC,HDFC,from_to,True,other,0.988,From: HDFC,To: HDFC
+1smst6p,post,2026-04-16 04:05:55,HDFC,HDFC,move_x_to,True,other,0.955,From: HDFC,To: HDFC
+1sad0uh,post,2026-04-02 09:54:14,HDFC,HDFC,move_x_to,True,other,0.985,From: HDFC,To: HDFC
+1s9bj48,post,2026-04-01 05:26:20,HDFC,HDFC,arrow,True,other,0.993,From: HDFC,To: HDFC
+1s8l87c,post,2026-03-31 11:51:33,HDFC,HDFC,move_x_to,True,other,0.989,From: HDFC,To: HDFC
+1s3z1le,post,2026-03-26 05:41:44,HDFC,HDFC,move_x_to,True,other,0.955,From: HDFC,To: HDFC
+1s3lnl4,post,2026-03-25 20:04:28,ICICI,ICICI,drop_for,True,intent,0.4,From: ICICI,To: ICICI
+1s336d7,post,2026-03-25 06:34:25,IndusInd,IndusInd,from_to,True,other,0.888,From: IndusInd,To: IndusInd
+1s13qd5,post,2026-03-23 01:38:01,HDFC,HDFC,move_x_to,True,other,0.952,From: HDFC,To: HDFC
+1s0qf9i,post,2026-03-22 16:41:18,HDFC,HDFC,from_to,True,other,0.733,From: HDFC,To: HDFC
+1rzl2ci,post,2026-03-21 07:12:20,RBL,RBL,from_to,True,other,0.847,From: RBL,To: RBL
+1ryr1mp,post,2026-03-20 08:50:02,HDFC,HDFC,from_to,True,other,0.73,From: HDFC,To: HDFC
+1rx5x6j,post,2026-03-18 14:47:45,HDFC,HDFC,from_to,True,other,0.984,From: HDFC,To: HDFC
+1rubc7c,post,2026-03-15 11:09:04,HDFC,HDFC,from_to,True,other,0.765,From: HDFC,To: HDFC
+1rr19ea,post,2026-03-11 18:03:28,HDFC,HDFC,arrow,True,other,0.902,From: HDFC,To: HDFC
+1rptcou,post,2026-03-10 10:32:29,HDFC,HDFC,from_to,True,other,0.801,From: HDFC,To: HDFC
+1rp4bp4,post,2026-03-09 16:07:21,HDFC,HDFC,from_to,True,other,0.561,From: HDFC,To: HDFC
+1ro4bxq,post,2026-03-08 13:01:45,HDFC,HDFC,move_x_to,True,other,0.974,From: HDFC,To: HDFC
+1rmdb7f,post,2026-03-06 12:58:55,HDFC,HDFC,to_from,True,other,0.995,From: HDFC,To: HDFC
+1rkrpp4,post,2026-03-04 17:31:26,HDFC,HDFC,from_to,True,other,0.537,From: HDFC,To: HDFC
+1rggo3t,post,2026-02-27 19:40:37,ICICI,ICICI,from_to,True,other,0.995,From: ICICI,To: ICICI
+1rd9zpr,post,2026-02-24 07:40:52,HDFC,HDFC,to_from,True,other,0.93,From: HDFC,To: HDFC
+1rcaf0g,post,2026-02-23 06:52:36,HDFC,HDFC,from_to,True,other,0.997,From: HDFC,To: HDFC
+1r9yvm5,post,2026-02-20 15:47:59,HDFC,HDFC,from_to,True,other,0.966,From: HDFC,To: HDFC
+1r3p7t7,post,2026-02-13 13:31:09,Kotak,Kotak,from_to,True,other,0.986,From: Kotak,To: Kotak
+1r0ys8o,post,2026-02-10 11:56:54,HDFC,HDFC,move_x_to,True,other,0.878,From: HDFC,To: HDFC
+1r01dgq,post,2026-02-09 11:04:39,SBI,SBI,from_to,True,other,0.991,From: SBI,To: SBI
+1quq20w,post,2026-02-03 11:59:19,HDFC,HDFC,move_x_to,True,other,0.663,From: HDFC,To: HDFC
+1qs14l0,post,2026-01-31 12:29:41,HDFC,HDFC,drop_for,True,other,0.522,From: HDFC,To: HDFC
+1qrupd4,post,2026-01-31 06:18:53,Amex,Amex,arrow,True,other,0.421,From: Amex,To: Amex
+1qr0qnd,post,2026-01-30 09:21:53,HDFC,HDFC,from_to,True,other,0.755,From: HDFC,To: HDFC
+1qq7zor,post,2026-01-29 13:03:45,Amex,Amex,from_to,True,other,0.918,From: Amex,To: Amex
+1qpiz2i,post,2026-01-28 18:06:42,Axis,Axis,arrow,True,comparison,0.356,From: Axis,To: Axis
+1qpcexi,post,2026-01-28 14:12:14,Axis,Axis,from_to,True,other,0.993,From: Axis,To: Axis
+1qp71ef,post,2026-01-28 09:45:05,HDFC,HDFC,move_x_to,True,other,0.977,From: HDFC,To: HDFC
+1qodwvq,post,2026-01-27 13:31:36,HDFC,HDFC,move_x_to,True,other,0.958,From: HDFC,To: HDFC
+1qnncxz,post,2026-01-26 17:55:43,Axis,Axis,move_x_to,True,other,0.831,From: Axis,To: Axis
+1qmd4d9,post,2026-01-25 07:57:06,Amex,Amex,to_from,True,comparison,0.381,From: Amex,To: Amex
+1qkp61u,post,2026-01-23 12:12:05,Amex,Amex,from_to,True,other,0.98,From: Amex,To: Amex
+1qjt3r6,post,2026-01-22 12:21:38,HDFC,HDFC,from_to,True,other,0.872,From: HDFC,To: HDFC
+1qjr6lk,post,2026-01-22 10:34:28,Axis,Axis,from_to,True,other,0.865,From: Axis,To: Axis
+1qjovxl,post,2026-01-22 08:12:06,SBI,SBI,instead,True,confirmed <0.5,0.471,From: SBI,To: SBI
+1qhuzpj,post,2026-01-20 07:50:31,SBI,SBI,from_to,True,other,0.97,From: SBI,To: SBI
+1qhqn4b,post,2026-01-20 03:59:47,HDFC,HDFC,move_x_to,True,other,0.644,From: HDFC,To: HDFC
+1qfbyyk,post,2026-01-17 12:27:17,ICICI,ICICI,move_x_to,True,other,0.987,From: ICICI,To: ICICI
+1qell9s,post,2026-01-16 17:02:36,HDFC,HDFC,arrow,True,other,0.975,From: HDFC,To: HDFC
+1qee66q,post,2026-01-16 12:03:13,HDFC,HDFC,from_to,True,comparison,0.444,From: HDFC,To: HDFC
+1qe9bse,post,2026-01-16 07:12:51,Axis,Axis,move_x_to,True,other,0.983,From: Axis,To: Axis
+1qbus09,post,2026-01-13 15:47:14,HDFC,HDFC,move_x_to,True,other,0.888,From: HDFC,To: HDFC
+1qbstug,post,2026-01-13 14:31:28,Axis,Axis,arrow,True,other,0.573,From: Axis,To: Axis
+1q8zpec,post,2026-01-10 09:19:54,HDFC,HDFC,arrow,True,other,0.586,From: HDFC,To: HDFC
+1q3qkgy,post,2026-01-04 13:57:34,HDFC,HDFC,from_to,True,confirmed <0.5,0.491,From: HDFC,To: HDFC
+1q3i7ne,post,2026-01-04 06:02:57,HDFC,HDFC,from_to,True,other,0.911,From: HDFC,To: HDFC
+1q19gae,post,2026-01-01 17:22:00,HDFC,HDFC,drop_for,True,other,0.987,From: HDFC,To: HDFC
+1q0iy3m,post,2025-12-31 17:48:19,HDFC,HDFC,to_from,True,other,0.843,From: HDFC,To: HDFC
+1q0ceev,post,2025-12-31 12:57:05,HDFC,HDFC,from_to,True,other,0.978,From: HDFC,To: HDFC
+1pxo8k3,post,2025-12-28 10:28:37,SBI,SBI,arrow,True,other,0.947,From: SBI,To: SBI
+1pxnksy,post,2025-12-28 09:46:29,HDFC,HDFC,drop_for,True,other,0.986,From: HDFC,To: HDFC
+1ptv5y1,post,2025-12-23 14:23:19,HDFC,HDFC,to_from,True,comparison,0.593,From: HDFC,To: HDFC
+1ps2lxc,post,2025-12-21 09:28:13,HDFC,HDFC,move_x_to,True,other,0.772,From: HDFC,To: HDFC
+1ppkckn,post,2025-12-18 06:55:35,HDFC,HDFC,from_to,True,comparison,0.29,From: HDFC,To: HDFC
+1ppkao0,post,2025-12-18 06:52:19,HDFC,HDFC,from_to,True,comparison,0.299,From: HDFC,To: HDFC
+1ppil6o,post,2025-12-18 05:12:47,HDFC,HDFC,from_to,True,other,0.863,From: HDFC,To: HDFC
+1po19dx,post,2025-12-16 12:57:02,HDFC,HDFC,move_x_to,True,other,0.331,From: HDFC,To: HDFC
+1pnc05h,post,2025-12-15 16:38:15,HDFC,HDFC,move_x_to,True,other,0.974,From: HDFC,To: HDFC
+1plfits,post,2025-12-13 07:20:36,HDFC,HDFC,from_to,True,other,0.891,From: HDFC,To: HDFC
+1pkfjat,post,2025-12-12 01:53:30,Kotak,Kotak,from_to,True,other,0.582,From: Kotak,To: Kotak
+1pjf91g,post,2025-12-10 21:33:20,HDFC,HDFC,arrow,True,other,0.983,From: HDFC,To: HDFC
+1pjf6kg,post,2025-12-10 21:30:41,HDFC,HDFC,arrow,True,other,0.983,From: HDFC,To: HDFC
+1pi2d69,post,2025-12-09 08:33:58,HDFC,HDFC,from_to,True,other,0.803,From: HDFC,To: HDFC
+1pfmu9p,post,2025-12-06 11:09:52,HDFC,HDFC,from_to,True,comparison,0.546,From: HDFC,To: HDFC
+1pdvyj8,post,2025-12-04 09:45:08,Amex,Amex,move_x_to,True,other,0.934,From: Amex,To: Amex
+1pc14fr,post,2025-12-02 06:15:48,Citi,Axis,arrow,False,other,0.931,From: Citi,To: Axis
+1pac8ox,post,2025-11-30 07:23:39,ICICI,ICICI,to_from,True,other,0.593,From: ICICI,To: ICICI
+1p65xm8,post,2025-11-25 07:05:13,Citi,Axis,arrow,False,other,0.959,From: Citi,To: Axis
+1p64umg,post,2025-11-25 06:00:26,ICICI,ICICI,from_to,True,other,0.87,From: ICICI,To: ICICI
+1p4vljr,post,2025-11-23 19:30:14,ICICI,ICICI,move_x_to,True,other,0.948,From: ICICI,To: ICICI
+1p31mvg,post,2025-11-21 15:31:13,HDFC,HDFC,from_to,True,other,0.937,From: HDFC,To: HDFC
+1p2zxwl,post,2025-11-21 14:24:32,HDFC,HDFC,to_from,True,other,0.802,From: HDFC,To: HDFC
+1owy28p,post,2025-11-14 14:32:53,HDFC,HDFC,instead,True,other,0.916,From: HDFC,To: HDFC
+1otebso,post,2025-11-10 13:52:54,HDFC,HDFC,from_to,True,comparison,0.326,From: HDFC,To: HDFC
+1oqx84s,post,2025-11-07 15:22:06,HDFC,HDFC,move_x_to,True,other,0.97,From: HDFC,To: HDFC
+1opsm1i,post,2025-11-06 07:28:36,HDFC,HDFC,from_to,True,other,0.76,From: HDFC,To: HDFC
+1oiifed,post,2025-10-28 19:10:21,HDFC,HDFC,to_from,True,other,0.943,From: HDFC,To: HDFC
+1oi626b,post,2025-10-28 10:48:15,HDFC,HDFC,from_to,True,other,0.97,From: HDFC,To: HDFC
+1ohai7s,post,2025-10-27 10:09:54,HDFC,HDFC,move_x_to,True,other,0.974,From: HDFC,To: HDFC
+1ogprhu,post,2025-10-26 17:00:04,Axis,Axis,from_to,True,other,0.994,From: Axis,To: Axis
+1oe4uae,post,2025-10-23 14:32:00,Axis,Axis,move_x_to,True,other,0.917,From: Axis,To: Axis
+1o9x0sw,post,2025-10-18 14:17:48,HDFC,HDFC,from_to,True,other,0.943,From: HDFC,To: HDFC
+1o8t6fx,post,2025-10-17 05:41:49,ICICI,ICICI,instead,True,other,0.77,From: ICICI,To: ICICI
+1o7z3mn,post,2025-10-16 06:43:15,HDFC,HDFC,move_x_to,True,other,0.978,From: HDFC,To: HDFC
+1o6ar9w,post,2025-10-14 09:25:03,HDFC,HDFC,move_x_to,True,other,0.695,From: HDFC,To: HDFC
+1o432th,post,2025-10-11 18:33:06,Axis,Axis,move_x_to,True,other,0.995,From: Axis,To: Axis
+1o428g7,post,2025-10-11 17:58:59,HDFC,HDFC,instead,True,other,0.991,From: HDFC,To: HDFC
+1o0gqub,post,2025-10-07 14:44:11,SBI,SBI,instead,True,other,0.989,From: SBI,To: SBI
+1o03701,post,2025-10-07 02:45:34,HDFC,HDFC,move_x_to,True,intent,0.336,From: HDFC,To: HDFC
+1nzmsx9,post,2025-10-06 15:49:28,Axis,Axis,move_x_to,True,confirmed <0.5,0.335,From: Axis,To: Axis
+1nzmqnc,post,2025-10-06 15:47:09,Axis,Axis,move_x_to,True,confirmed <0.5,0.311,From: Axis,To: Axis
+1nzmoul,post,2025-10-06 15:45:25,Axis,Axis,move_x_to,True,confirmed <0.5,0.334,From: Axis,To: Axis
+1nxq77p,post,2025-10-04 10:14:17,HDFC,HDFC,move_x_to,True,other,0.991,From: HDFC,To: HDFC
+1nvchrk,post,2025-10-01 16:11:26,Amex,Amex,instead,True,other,0.995,From: Amex,To: Amex
+1nucjar,post,2025-09-30 12:59:47,HDFC,HDFC,move_x_to,True,other,0.433,From: HDFC,To: HDFC
+1nr0k6f,post,2025-09-26 12:53:14,HDFC,HDFC,move_x_to,True,other,0.966,From: HDFC,To: HDFC
+1nmu4r3,post,2025-09-21 14:56:59,HDFC,HDFC,to_from,True,other,0.967,From: HDFC,To: HDFC
+1nmo1nq,post,2025-09-21 10:00:38,HDFC,HDFC,to_from,True,other,0.479,From: HDFC,To: HDFC
+1nmo00n,post,2025-09-21 09:57:51,HDFC,HDFC,to_from,True,other,0.525,From: HDFC,To: HDFC
+1nmmhof,post,2025-09-21 08:23:04,Axis,Axis,from_to,True,other,0.933,From: Axis,To: Axis
+1nkz9q0,post,2025-09-19 09:50:47,HDFC,HDFC,drop_for,True,other,0.927,From: HDFC,To: HDFC
+1nka5qy,post,2025-09-18 14:41:48,HDFC,HDFC,from_to,True,other,0.986,From: HDFC,To: HDFC
+1njyr41,post,2025-09-18 04:23:35,Citi,Axis,move_x_to,False,confirmed >=0.5,0.562,From: Citi,To: Axis
+1njynr6,post,2025-09-18 04:18:22,HDFC,HDFC,from_to,True,other,0.976,From: HDFC,To: HDFC
+1nft7ak,post,2025-09-13 09:31:19,HSBC,HSBC,move_x_to,True,comparison,0.394,From: HSBC,To: HSBC
+1nft6dy,post,2025-09-13 09:29:46,HSBC,HSBC,move_x_to,True,comparison,0.394,From: HSBC,To: HSBC
+1nf8it0,post,2025-09-12 16:56:12,HDFC,HDFC,from_to,True,other,0.983,From: HDFC,To: HDFC
+1ne6fzc,post,2025-09-11 11:37:10,HDFC,HDFC,move_x_to,True,other,0.985,From: HDFC,To: HDFC
+1nbcxz3,post,2025-09-08 03:15:45,ICICI,ICICI,move_x_to,True,other,0.972,From: ICICI,To: ICICI
+1n7gixe,post,2025-09-03 14:36:21,HDFC,HDFC,from_to,True,other,0.985,From: HDFC,To: HDFC
+1n5l1pj,post,2025-09-01 10:22:55,HDFC,HDFC,drop_for,True,confirmed >=0.5,0.527,From: HDFC,To: HDFC
+1n4qq2u,post,2025-08-31 09:52:27,Axis,Axis,to_from,True,comparison,0.537,From: Axis,To: Axis
+1n4qp5o,post,2025-08-31 09:50:44,Axis,Axis,to_from,True,comparison,0.407,From: Axis,To: Axis
+1n2dblh,post,2025-08-28 14:12:08,ICICI,ICICI,from_to,True,other,0.983,From: ICICI,To: ICICI
+1n1hbgw,post,2025-08-27 13:38:58,HDFC,HDFC,from_to,True,other,0.619,From: HDFC,To: HDFC
+1mzvkny,post,2025-08-25 16:40:33,HDFC,HDFC,move_x_to,True,other,0.988,From: HDFC,To: HDFC
+1myp987,post,2025-08-24 07:29:34,HDFC,HDFC,move_x_to,True,other,0.976,From: HDFC,To: HDFC
+1mw6crp,post,2025-08-21 09:40:42,ICICI,ICICI,move_x_to,True,other,0.69,From: ICICI,To: ICICI
+1mw0yl9,post,2025-08-21 04:13:53,HDFC,HDFC,to_from,True,other,0.555,From: HDFC,To: HDFC
+1mvgu4z,post,2025-08-20 14:46:31,ICICI,ICICI,from_to,True,other,0.992,From: ICICI,To: ICICI
+1mvdjp8,post,2025-08-20 12:34:07,HDFC,HDFC,from_to,True,other,0.87,From: HDFC,To: HDFC
+1mvbjly,post,2025-08-20 10:57:20,SBI,SBI,move_x_to,True,other,0.985,From: SBI,To: SBI
+1mv6xej,post,2025-08-20 06:15:06,HDFC,HDFC,from_to,True,other,0.393,From: HDFC,To: HDFC
+1mv2jf8,post,2025-08-20 02:21:50,Axis,Axis,drop_for,True,intent,0.499,From: Axis,To: Axis
+1mv2gpq,post,2025-08-20 02:18:12,Axis,Axis,drop_for,True,intent,0.422,From: Axis,To: Axis
+1mts58k,post,2025-08-18 17:13:10,HDFC,HDFC,move_x_to,True,other,0.98,From: HDFC,To: HDFC
+1mquwsm,post,2025-08-15 11:20:39,HDFC,HDFC,move_x_to,True,other,0.838,From: HDFC,To: HDFC
+1mol6g6,post,2025-08-12 21:12:38,HDFC,HDFC,from_to,True,other,0.994,From: HDFC,To: HDFC
+1mkn3hv,post,2025-08-08 05:45:03,HDFC,HDFC,move_x_to,True,other,0.978,From: HDFC,To: HDFC
+1miy51o,post,2025-08-06 07:24:23,HDFC,HDFC,to_from,True,other,0.503,From: HDFC,To: HDFC
+1mhkg2c,post,2025-08-04 17:50:23,HDFC,HDFC,move_x_to,True,other,0.813,From: HDFC,To: HDFC
+1mfj6nv,post,2025-08-02 06:03:19,Axis,Axis,from_to,True,other,0.595,From: Axis,To: Axis
+1mesf5z,post,2025-08-01 10:00:49,HDFC,HDFC,to_from,True,other,0.497,From: HDFC,To: HDFC
+1md7wwm,post,2025-07-30 14:22:12,SBI,SBI,instead,True,other,0.968,From: SBI,To: SBI
+1md7hzs,post,2025-07-30 14:05:40,HDFC,Federal,move_x_to,False,other,0.877,From: HDFC,To: Federal
+1md7g9k,post,2025-07-30 14:03:42,HDFC,Federal,move_x_to,False,other,0.877,From: HDFC,To: Federal
+1md3v6s,post,2025-07-30 11:17:54,Axis,Axis,arrow,True,other,0.64,From: Axis,To: Axis
+1mcub09,post,2025-07-30 02:02:41,HDFC,HDFC,from_to,True,other,0.994,From: HDFC,To: HDFC
+1mamyas,post,2025-07-27 13:57:47,HDFC,HDFC,from_to,True,other,0.763,From: HDFC,To: HDFC
+1m86ivr,post,2025-07-24 14:53:11,ICICI,ICICI,instead,True,other,0.998,From: ICICI,To: ICICI
+1m83mu8,post,2025-07-24 12:54:41,HDFC,HDFC,from_to,True,other,0.99,From: HDFC,To: HDFC
+1m6bb5a,post,2025-07-22 11:15:02,HDFC,HDFC,to_from,True,other,0.76,From: HDFC,To: HDFC
+1m69qdi,post,2025-07-22 09:42:23,ICICI,ICICI,move_x_to,True,other,0.965,From: ICICI,To: ICICI
+1m3t8wv,post,2025-07-19 10:48:00,HDFC,HDFC,from_to,True,other,0.962,From: HDFC,To: HDFC
+1m1hqly,post,2025-07-16 16:47:51,HDFC,HDFC,arrow,True,other,0.962,From: HDFC,To: HDFC
+1m1f8fs,post,2025-07-16 15:14:22,ICICI,ICICI,move_x_to,True,other,0.983,From: ICICI,To: ICICI
+1lzfany,post,2025-07-14 06:36:32,HDFC,HDFC,move_x_to,True,other,0.977,From: HDFC,To: HDFC
+1lybs9r,post,2025-07-12 21:35:25,HDFC,HDFC,from_to,True,other,0.873,From: HDFC,To: HDFC
+1lwi1c9,post,2025-07-10 17:03:11,ICICI,ICICI,from_to,True,other,0.618,From: ICICI,To: ICICI
+1lw40e4,post,2025-07-10 04:45:52,HDFC,HDFC,move_x_to,True,other,0.944,From: HDFC,To: HDFC
+1lpkiut,post,2025-07-02 02:30:23,HDFC,HDFC,move_x_to,True,other,0.946,From: HDFC,To: HDFC
+1loyw1j,post,2025-07-01 11:11:33,HDFC,HDFC,from_to,True,other,0.995,From: HDFC,To: HDFC
+1lkyw4z,post,2025-06-26 12:29:37,Amex,Amex,move_x_to,True,other,0.996,From: Amex,To: Amex
+1ljvd2l,post,2025-06-25 03:31:01,HDFC,HDFC,from_to,True,other,0.353,From: HDFC,To: HDFC
+1ljb9v5,post,2025-06-24 13:35:10,HDFC,HDFC,from_to,True,other,0.872,From: HDFC,To: HDFC
+1lgq4ba,post,2025-06-21 06:42:14,HDFC,HDFC,move_x_to,True,other,0.611,From: HDFC,To: HDFC
+1lfxpia,post,2025-06-20 07:15:38,HDFC,HDFC,from_to,True,other,0.992,From: HDFC,To: HDFC
+1lfw1wf,post,2025-06-20 05:28:36,HDFC,HDFC,from_to,True,other,0.997,From: HDFC,To: HDFC
+1lee2cf,post,2025-06-18 10:54:29,HDFC,HDFC,from_to,True,other,0.747,From: HDFC,To: HDFC
+1lcs1ip,post,2025-06-16 12:54:20,Kotak,Kotak,from_to,True,other,0.973,From: Kotak,To: Kotak
+1lcizzi,post,2025-06-16 03:40:30,HDFC,HDFC,move_x_to,True,other,0.983,From: HDFC,To: HDFC
+1lb4dll,post,2025-06-14 09:08:43,HDFC,HDFC,to_from,True,other,0.993,From: HDFC,To: HDFC
+1l8sqcv,post,2025-06-11 13:30:02,HDFC,HDFC,move_x_to,True,other,0.95,From: HDFC,To: HDFC
+1l5dgpg,post,2025-06-07 05:39:12,HDFC,HDFC,from_to,True,other,0.884,From: HDFC,To: HDFC
+1ky55y2,post,2025-05-29 08:01:37,HDFC,HDFC,from_to,True,other,0.859,From: HDFC,To: HDFC
+1kxd6v2,post,2025-05-28 09:58:20,HDFC,HDFC,from_to,True,other,0.993,From: HDFC,To: HDFC
+1kvpbgy,post,2025-05-26 08:28:28,Amex,Amex,from_to,True,other,0.981,From: Amex,To: Amex
+1ksre6h,post,2025-05-22 13:58:17,HDFC,HDFC,to_from,True,confirmed <0.5,0.474,From: HDFC,To: HDFC
+1ksmulf,post,2025-05-22 09:57:19,HDFC,HDFC,from_to,True,other,0.719,From: HDFC,To: HDFC
+1ks2rw6,post,2025-05-21 16:51:05,HDFC,HDFC,from_to,True,other,0.988,From: HDFC,To: HDFC
+1krov29,post,2025-05-21 04:09:40,HDFC,HDFC,from_to,True,other,0.593,From: HDFC,To: HDFC
+1kphbml,post,2025-05-18 10:59:59,HDFC,HDFC,move_x_to,True,other,0.93,From: HDFC,To: HDFC
+1kln8ms,post,2025-05-13 14:23:55,HDFC,HDFC,move_x_to,True,other,0.75,From: HDFC,To: HDFC
+1kjv5go,post,2025-05-11 07:13:40,SBI,SBI,from_to,True,other,0.918,From: SBI,To: SBI
+1kebfvo,post,2025-05-04 04:25:25,HDFC,HDFC,move_x_to,True,other,0.824,From: HDFC,To: HDFC
+1kdjvc3,post,2025-05-03 03:47:33,SBI,SBI,move_x_to,True,other,0.769,From: SBI,To: SBI
+1kd1bzh,post,2025-05-02 13:45:11,HDFC,HDFC,move_x_to,True,confirmed >=0.5,0.952,From: HDFC,To: HDFC
+1kcxij4,post,2025-05-02 10:22:15,HDFC,HDFC,move_x_to,True,other,0.984,From: HDFC,To: HDFC
+1kccli8,post,2025-05-01 16:11:44,HDFC,HDFC,arrow,True,other,0.924,From: HDFC,To: HDFC
+1kb7xsc,post,2025-04-30 04:25:43,HDFC,HDFC,from_to,True,other,0.627,From: HDFC,To: HDFC
+1k9zb9m,post,2025-04-28 16:07:35,HDFC,HDFC,to_from,True,other,0.856,From: HDFC,To: HDFC
+1k9std2,post,2025-04-28 11:04:42,HDFC,HDFC,from_to,True,other,0.812,From: HDFC,To: HDFC
+1k7j181,post,2025-04-25 11:53:09,HDFC,HDFC,to_from,True,other,0.965,From: HDFC,To: HDFC
+1k6gtep,post,2025-04-24 02:03:52,HDFC,HDFC,to_from,True,other,0.839,From: HDFC,To: HDFC
+1k69mei,post,2025-04-23 20:34:00,Amex,Amex,to_from,True,other,0.759,From: Amex,To: Amex
+1k5wxa3,post,2025-04-23 11:36:53,SBI,SBI,instead,True,other,0.967,From: SBI,To: SBI
+1k5vugz,post,2025-04-23 10:31:33,HDFC,HDFC,from_to,True,other,0.984,From: HDFC,To: HDFC
+1k5nfy0,post,2025-04-23 01:39:19,ICICI,ICICI,move_x_to,True,other,0.92,From: ICICI,To: ICICI
+1k3tztm,post,2025-04-20 19:07:25,HDFC,HDFC,from_to,True,other,0.687,From: HDFC,To: HDFC
+1k21nuf,post,2025-04-18 10:27:41,HDFC,HDFC,to_from,True,intent,0.495,From: HDFC,To: HDFC
+1jyu7e0,post,2025-04-14 08:51:36,HDFC,HDFC,from_to,True,other,0.441,From: HDFC,To: HDFC
+1jy771w,post,2025-04-13 13:05:35,Axis,Axis,from_to,True,other,0.566,From: Axis,To: Axis
+1jxjub8,post,2025-04-12 15:28:16,HDFC,HDFC,from_to,True,other,0.967,From: HDFC,To: HDFC
+1jxbxxn,post,2025-04-12 07:35:57,HDFC,HDFC,from_to,True,other,0.908,From: HDFC,To: HDFC
+1jvwdvy,post,2025-04-10 12:12:39,HDFC,HDFC,instead,True,other,0.43,From: HDFC,To: HDFC
+1jva0tc,post,2025-04-09 16:28:10,HDFC,HDFC,move_x_to,True,other,0.522,From: HDFC,To: HDFC
+1jv7w1x,post,2025-04-09 15:00:45,ICICI,ICICI,move_x_to,True,other,0.643,From: ICICI,To: ICICI
+1ju9von,post,2025-04-08 10:00:31,HDFC,HDFC,from_to,True,confirmed <0.5,0.405,From: HDFC,To: HDFC
+1jtuqjr,post,2025-04-07 20:00:25,HDFC,HDFC,from_to,True,other,0.994,From: HDFC,To: HDFC
+1js1cm6,post,2025-04-05 11:28:32,HDFC,HDFC,arrow,True,other,0.772,From: HDFC,To: HDFC
+1jr7ka8,post,2025-04-04 09:11:13,HDFC,Yes Bank,drop_for,False,other,0.569,From: HDFC,To: Yes Bank
+1jr7jzm,post,2025-04-04 09:10:39,HDFC,Yes Bank,drop_for,False,confirmed >=0.5,0.523,From: HDFC,To: Yes Bank
+1jqjyp9,post,2025-04-03 14:30:41,ICICI,ICICI,move_x_to,True,other,0.952,From: ICICI,To: ICICI
+1jqas34,post,2025-04-03 05:57:55,ICICI,ICICI,to_from,True,other,0.817,From: ICICI,To: ICICI
+1jpuqdf,post,2025-04-02 17:41:09,SBI,SBI,from_to,True,other,0.759,From: SBI,To: SBI
+1jotahu,post,2025-04-01 11:30:29,ICICI,ICICI,from_to,True,other,0.832,From: ICICI,To: ICICI
+1jom2l9,post,2025-04-01 03:21:05,HDFC,HDFC,move_x_to,True,other,0.961,From: HDFC,To: HDFC
+1jmg2uq,post,2025-03-29 06:16:51,Amex,Amex,drop_for,True,other,0.941,From: Amex,To: Amex
+1jkgj92,post,2025-03-26 16:53:58,HDFC,HDFC,move_x_to,True,other,0.966,From: HDFC,To: HDFC
+1jjmzsa,post,2025-03-25 16:07:35,HDFC,HDFC,to_from,True,other,0.994,From: HDFC,To: HDFC
+1jjmw2n,post,2025-03-25 16:03:11,HDFC,HDFC,to_from,True,other,0.994,From: HDFC,To: HDFC
+1jjkfjd,post,2025-03-25 14:18:11,HDFC,HDFC,from_to,True,other,0.569,From: HDFC,To: HDFC
+1jiyppo,post,2025-03-24 18:59:03,HDFC,HDFC,to_from,True,other,0.982,From: HDFC,To: HDFC
+1jiptvm,post,2025-03-24 12:47:31,SBI,SBI,from_to,True,other,0.723,From: SBI,To: SBI
+1jib8k8,post,2025-03-23 22:10:46,HDFC,HDFC,move_x_to,True,other,0.632,From: HDFC,To: HDFC
+1ji3pq7,post,2025-03-23 16:51:19,HDFC,HDFC,move_x_to,True,other,0.897,From: HDFC,To: HDFC
+1jhv1i2,post,2025-03-23 08:56:51,SBI,SBI,instead,True,other,0.983,From: SBI,To: SBI
+1jguqir,post,2025-03-21 23:28:45,HDFC,HDFC,to_from,True,other,0.444,From: HDFC,To: HDFC
+1jg9wlg,post,2025-03-21 05:47:01,HDFC,HDFC,arrow,True,other,0.95,From: HDFC,To: HDFC
+1jfic5g,post,2025-03-20 06:05:05,HDFC,HDFC,from_to,True,other,0.972,From: HDFC,To: HDFC
+1je6phi,post,2025-03-18 14:48:35,IDFC First,IDFC First,from_to,True,other,0.931,From: IDFC First,To: IDFC First
+1je3lcj,post,2025-03-18 12:19:04,IDFC First,IDFC First,move_x_to,True,other,0.976,From: IDFC First,To: IDFC First
+1jd9gyz,post,2025-03-17 10:29:22,SBI,SBI,from_to,True,other,0.747,From: SBI,To: SBI
+1j8s6as,post,2025-03-11 14:34:52,HDFC,HDFC,arrow,True,other,0.702,From: HDFC,To: HDFC
+1j7ehus,post,2025-03-09 18:47:27,HDFC,HDFC,to_from,True,other,0.745,From: HDFC,To: HDFC
+1j6d0dx,post,2025-03-08 08:43:06,HDFC,HDFC,from_to,True,other,0.766,From: HDFC,To: HDFC
+1j5h2ih,post,2025-03-07 06:19:34,HDFC,HDFC,from_to,True,other,0.909,From: HDFC,To: HDFC
+1j47v05,post,2025-03-05 17:02:06,HDFC,HDFC,from_to,True,confirmed >=0.5,0.514,From: HDFC,To: HDFC
+1j3xfnb,post,2025-03-05 07:05:56,Axis,Axis,move_x_to,True,other,0.943,From: Axis,To: Axis
+1j0ywab,post,2025-03-01 12:58:10,HDFC,HDFC,from_to,True,other,0.859,From: HDFC,To: HDFC
+1j0s4yo,post,2025-03-01 05:21:06,HDFC,HDFC,move_x_to,True,other,0.994,From: HDFC,To: HDFC
+1iyo8fh,post,2025-02-26 14:04:00,Citi,Axis,from_to,False,other,0.778,From: Citi,To: Axis
+1iy2lu7,post,2025-02-25 18:52:46,HDFC,HDFC,from_to,True,other,0.909,From: HDFC,To: HDFC
+1ixmuda,post,2025-02-25 04:42:33,HDFC,HDFC,move_x_to,True,other,0.994,From: HDFC,To: HDFC
+1ix3wnk,post,2025-02-24 14:56:09,HDFC,HDFC,instead,True,other,0.929,From: HDFC,To: HDFC
+1ivo3t5,post,2025-02-22 17:32:39,HDFC,HDFC,from_to,True,other,0.86,From: HDFC,To: HDFC
+1ivku0s,post,2025-02-22 15:12:15,HDFC,HDFC,from_to,True,other,0.889,From: HDFC,To: HDFC
+1ivgqac,post,2025-02-22 11:28:40,SBI,SBI,instead,True,other,0.922,From: SBI,To: SBI
+1itwnkk,post,2025-02-20 11:47:17,HDFC,HDFC,from_to,True,other,0.718,From: HDFC,To: HDFC
+1ishnuk,post,2025-02-18 17:07:54,HDFC,HDFC,from_to,True,other,0.436,From: HDFC,To: HDFC
+1ipf4hd,post,2025-02-14 16:56:59,ICICI,ICICI,from_to,True,other,0.634,From: ICICI,To: ICICI
+1iliqx2,post,2025-02-09 16:37:11,Amex,Amex,to_from,True,other,0.926,From: Amex,To: Amex
+1il8yjg,post,2025-02-09 06:54:11,HDFC,HDFC,instead,True,other,0.929,From: HDFC,To: HDFC
+1ij1jh9,post,2025-02-06 12:37:08,HDFC,HDFC,move_x_to,True,other,0.984,From: HDFC,To: HDFC
+1iiy057,post,2025-02-06 08:35:52,HDFC,HDFC,arrow,True,other,0.96,From: HDFC,To: HDFC
+1idu4s0,post,2025-01-30 18:44:42,ICICI,ICICI,move_x_to,True,other,0.539,From: ICICI,To: ICICI
+1ibgj9k,post,2025-01-27 18:42:11,HDFC,HDFC,instead,True,other,0.84,From: HDFC,To: HDFC
+1i745gx,post,2025-01-22 05:36:38,HDFC,HDFC,from_to,True,other,0.972,From: HDFC,To: HDFC
+1i5xen5,post,2025-01-20 18:39:17,SBI,SBI,drop_for,True,other,0.993,From: SBI,To: SBI
+1i3ji4g,post,2025-01-17 15:56:58,HDFC,HDFC,from_to,True,other,0.41,From: HDFC,To: HDFC
+1i2mf2y,post,2025-01-16 10:58:18,Amex,Amex,drop_for,True,other,0.982,From: Amex,To: Amex
+1i2kvmx,post,2025-01-16 09:02:04,Axis,Axis,move_x_to,True,other,0.608,From: Axis,To: Axis
+1i0g865,post,2025-01-13 15:17:43,HDFC,HDFC,instead,True,other,0.996,From: HDFC,To: HDFC
+1hwiwir,post,2025-01-08 12:18:12,HDFC,HDFC,from_to,True,other,0.748,From: HDFC,To: HDFC
+1hwdp04,post,2025-01-08 06:43:09,HDFC,HDFC,from_to,True,other,0.702,From: HDFC,To: HDFC
+1hvpjnq,post,2025-01-07 11:38:43,ICICI,ICICI,from_to,True,other,0.97,From: ICICI,To: ICICI
+1hvp83p,post,2025-01-07 11:17:15,HDFC,HDFC,move_x_to,True,other,0.959,From: HDFC,To: HDFC
+1hu5rfp,post,2025-01-05 12:08:09,Axis,Axis,move_x_to,True,other,0.746,From: Axis,To: Axis
+1htn642,post,2025-01-04 20:11:18,Axis,Axis,move_x_to,True,other,0.854,From: Axis,To: Axis
+1htghdt,post,2025-01-04 15:17:13,Axis,Axis,drop_for,True,confirmed >=0.5,0.533,From: Axis,To: Axis
+1ht7cu4,post,2025-01-04 05:24:45,HDFC,HDFC,arrow,True,other,0.956,From: HDFC,To: HDFC
